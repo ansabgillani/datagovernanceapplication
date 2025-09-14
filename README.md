@@ -7,7 +7,7 @@ This project provides a **complete pipeline** to anonymize speech, transcribe it
 
 ## Scripts
 
-- **Voiceanonymisationtech.py**  
+- **`Voice_anonymisationtech.py`**  
   Generates anonymized versions of speech with three methods:
   1. Pitch shift (e.g., +5 semitones)  
   2. Time-stretch (e.g., 1.5× speed change)  
