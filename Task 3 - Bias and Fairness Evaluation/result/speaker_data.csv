@@ -1,0 +1,2485 @@
+reader_id,sex,subset,minutes,name,hours
+14,F,train-clean-360,25.03,Kristin LeMoine,0.4171666666666667
+16,F,train-clean-360,25.11,Alys AtteWater,0.4185
+17,M,train-clean-360,25.04,Gord Mackenzie,0.41733333333333333
+19,F,train-clean-100,25.19,Kara Shallenberg,0.41983333333333334
+20,F,train-other-500,30.07,Gesine,0.5011666666666666
+22,F,train-clean-360,25.14,Michelle Crandall,0.419
+23,F,train-clean-360,25.23,Anita Roy Dobbs,0.4205
+25,M,train-other-500,30.16,John Gonzalez,0.5026666666666667
+26,M,train-clean-100,25.08,Denny Sayers,0.418
+27,M,train-clean-100,20.14,Sean McKinley,0.33566666666666667
+28,F,train-clean-360,25.03,Kristin Hughes,0.4171666666666667
+29,M,train-other-500,30.1,Linton,0.5016666666666667
+30,F,train-clean-360,25.19,Annie Coleman Rothenberg,0.41983333333333334
+31,M,train-other-500,23.79,Martin Clifton,0.39649999999999996
+32,F,train-clean-100,24.01,Betsie Bush,0.40016666666666667
+36,M,train-other-500,25.85,Chip,0.43083333333333335
+37,M,train-other-500,30.04,wolvrin,0.5006666666666667
+38,M,train-clean-360,25.11,R. Francis Smith,0.4185
+39,F,train-clean-100,25.05,Sherry Crowther,0.41750000000000004
+40,F,train-clean-100,25.04,Vicki Barbour,0.41733333333333333
+44,F,train-other-500,25.9,travelbratd,0.43166666666666664
+45,F,train-other-500,8.85,Kelly Bescherer,0.1475
+46,M,train-other-500,30.02,Aaron Hochwimmer,0.5003333333333333
+47,F,train-other-500,30.09,Amanda,0.5015
+49,M,train-other-500,28.62,vrk74,0.47700000000000004
+51,M,train-other-500,24.13,rakkar,0.4021666666666667
+52,F,train-other-500,10.99,Luisa Hall,0.18316666666666667
+54,F,train-clean-360,25.07,Westwinds12,0.41783333333333333
+55,M,train-clean-360,25.21,David Jaquay,0.4201666666666667
+56,F,train-clean-360,25.07,Kirsten Ferreri,0.41783333333333333
+57,F,train-other-500,29.41,Ophelia Darcy,0.4901666666666667
+58,M,train-other-500,30.06,George Coutts,0.501
+60,M,train-clean-100,20.18,|CBW|Simon,0.3363333333333333
+61,M,test-clean,8.08,Paul-Gabriel Wiener,0.13466666666666666
+62,M,train-other-500,17.8,Faris,0.2966666666666667
+64,F,train-clean-360,23.51,Robin Cotter,0.39183333333333337
+65,F,train-other-500,27.32,chriss the girl,0.4553333333333333
+66,M,train-other-500,30.22,Alex Foster,0.5036666666666666
+70,M,train-clean-360,21.61,Kurt Copeland,0.36016666666666663
+75,M,train-other-500,30.1,Jim Mowatt,0.5016666666666667
+77,F,train-other-500,30.1,JemmaBlythe,0.5016666666666667
+78,M,train-clean-100,25.05,Hugh McGuire,0.41750000000000004
+79,F,train-clean-360,25.01,Jennifer Crispin,0.41683333333333333
+81,M,train-clean-360,25.22,Aaron Decker,0.42033333333333334
+82,F,train-other-500,30.15,Marlo Dianne,0.5025
+83,F,train-clean-100,25.04,Catharine Eastman,0.41733333333333333
+84,F,dev-clean,8.02,Christie Nowak,0.13366666666666666
+85,M,train-other-500,30.02,David Leaman,0.5003333333333333
+87,F,train-clean-100,25.1,Rosalind Wills,0.41833333333333333
+89,F,train-clean-100,25.08,Kristen McQuillin,0.418
+90,M,train-clean-360,25.17,Dan Threetrees,0.41950000000000004
+91,M,train-other-500,30.05,Stephan Mobius,0.5008333333333334
+92,F,train-other-500,26.78,Cori Samuel,0.44633333333333336
+93,F,train-clean-360,25.02,Kathy,0.417
+94,M,train-other-500,30.11,David Barnes,0.5018333333333334
+98,F,train-clean-360,25.03,Patricia Oakley,0.4171666666666667
+100,F,train-clean-360,25.06,Judy Bieber,0.41766666666666663
+101,M,train-clean-360,25.04,paulino,0.41733333333333333
+102,F,train-other-500,30.18,Linda Leu,0.503
+103,F,train-clean-100,23.72,Karen Savage,0.3953333333333333
+104,F,train-other-500,30.21,Laura M.D.,0.5035000000000001
+107,M,train-other-500,18.64,John Greenman,0.3106666666666667
+110,F,train-other-500,30.07,Cynthia Lyons (1946-2011),0.5011666666666666
+111,F,train-other-500,22.36,Linda Wilcox,0.37266666666666665
+112,F,train-clean-360,25.23,Christiane Levesque,0.4205
+114,F,train-clean-360,25.03,Jen Kidd,0.4171666666666667
+115,F,train-clean-360,25.02,Maddie,0.417
+116,M,dev-other,10.02,Steven Collins,0.16699999999999998
+118,M,train-clean-100,25.05,Alex Buie,0.41750000000000004
+119,M,train-clean-360,25.11,Alex Patterson,0.4185
+121,F,test-clean,8.01,Nikolle Doolin,0.1335
+122,M,train-clean-360,25.15,J.C.,0.41916666666666663
+123,F,train-other-500,30.01,Ezwa,0.5001666666666666
+125,F,train-clean-100,25.18,Claire Goget,0.4196666666666667
+126,F,train-clean-360,25.15,Susan Denney,0.41916666666666663
+127,M,train-other-500,29.49,John Hicken,0.4915
+128,M,train-other-500,25.63,ML Cohen,0.42716666666666664
+133,M,train-other-500,13.89,Mick,0.2315
+147,M,train-other-500,10.79,Thomas Hoover,0.17983333333333332
+149,M,train-other-500,17.69,Joshua Young,0.29483333333333334
+150,F,train-clean-100,25.13,Fox in the Stars,0.41883333333333334
+151,F,train-other-500,10.54,Gwen,0.17566666666666667
+152,M,train-other-500,28.67,Andy Minter,0.4778333333333334
+153,M,train-other-500,30.16,Graham Williams,0.5026666666666667
+154,M,train-clean-360,25.13,Robert Foster,0.41883333333333334
+157,M,train-clean-360,22.96,Ben Douglas,0.38266666666666665
+159,M,train-clean-360,25.03,hugh mac,0.4171666666666667
+161,M,train-other-500,30.09,"Cyril Law, Jr.",0.5015
+163,M,train-clean-100,25.06,Andrew Miller,0.41766666666666663
+166,F,train-clean-360,25.16,Paula Berinstein,0.41933333333333334
+167,M,train-other-500,21.75,Peter Yearsley,0.3625
+168,M,train-other-500,28.32,Chris Goringe,0.47200000000000003
+173,F,train-other-500,11.25,vlooi,0.1875
+174,M,dev-clean,8.04,Peter Eastman,0.13399999999999998
+175,F,train-clean-360,25.03,Meredith Hughes,0.4171666666666667
+176,M,train-clean-360,25.2,Vinny Bove,0.42
+177,F,train-other-500,26.69,Kymm Zuckert,0.44483333333333336
+188,F,train-clean-360,25.26,Mary Anderson,0.42100000000000004
+192,F,train-clean-360,25.19,Deborah Clark,0.41983333333333334
+196,M,train-clean-100,25.24,Stewart Wills,0.42066666666666663
+198,F,train-clean-100,25.02,Heather Barnett,0.417
+199,F,train-other-500,7.08,Maria Morabe,0.11800000000000001
+200,F,train-clean-100,25.14,Maureen S. O'Brien,0.419
+201,M,train-clean-100,25.19,Joplin James,0.41983333333333334
+202,F,train-other-500,30.04,Geetu Melwani,0.5006666666666667
+203,F,train-clean-360,25.01,Marian Brown,0.41683333333333333
+204,M,train-clean-360,25.18,Mark F. Smith,0.4196666666666667
+205,F,train-clean-360,25.07,Esther,0.41783333333333333
+207,M,train-clean-360,25.0,Kevin McAsh,0.4166666666666667
+208,F,train-clean-360,13.28,Andrea L,0.22133333333333333
+209,F,train-clean-360,25.08,Moira Fogarty,0.418
+210,M,train-clean-360,25.12,Aldark,0.4186666666666667
+211,F,train-clean-100,25.22,shanda_w,0.42033333333333334
+215,F,train-other-500,29.09,Alice Elizabeth Still,0.48483333333333334
+216,M,train-clean-360,25.08,Thomas Davoren,0.418
+217,F,train-clean-360,17.71,firefly,0.2951666666666667
+218,M,train-other-500,14.46,Kelly Clear,0.24100000000000002
+224,F,train-clean-360,25.2,Caitlin Kelly,0.42
+225,F,train-clean-360,25.17,Brenda Dayne,0.41950000000000004
+226,F,train-clean-100,25.21,Deb Bacon-Ziegler,0.4201666666666667
+227,F,train-clean-360,25.16,Sarah Key-DeLyria,0.41933333333333334
+228,F,train-other-500,28.84,Arctura,0.4806666666666667
+229,M,train-clean-100,19.56,carnright,0.32599999999999996
+231,M,train-clean-360,22.19,Sean McGaughey,0.36983333333333335
+233,M,train-clean-100,24.72,Steve Karafit,0.412
+237,F,test-clean,8.02,rachelellen,0.13366666666666666
+238,F,train-other-500,10.11,Maria Elmvang,0.16849999999999998
+240,M,train-clean-360,25.06,Shurtagal,0.41766666666666663
+242,F,train-clean-360,25.12,Cagirlwithasoutherndrawl,0.4186666666666667
+243,F,train-other-500,30.04,Jennifer Stearns,0.5006666666666667
+245,M,train-other-500,30.25,Peter of Buckinghamshire England,0.5041666666666667
+246,F,train-clean-360,22.43,Beth Dudek,0.37383333333333335
+248,F,train-clean-100,25.13,Becky Miller,0.41883333333333334
+249,M,train-clean-360,18.69,pww214,0.3115
+250,F,train-clean-100,25.16,Mary Reagan,0.41933333333333334
+251,M,dev-clean,8.04,Mark Nelson,0.13399999999999998
+252,M,train-other-500,30.26,Rainer,0.5043333333333334
+253,M,train-other-500,27.43,Stefan Schmelz,0.45716666666666667
+254,M,train-clean-100,25.06,Alan Davis Drake (1945-2010),0.41766666666666663
+255,M,train-other-500,30.1,Chris Hawk,0.5016666666666667
+258,M,train-clean-360,24.53,Kurt Wong,0.4088333333333333
+260,M,test-clean,8.05,Brad Bush,0.13416666666666668
+263,M,train-other-500,16.03,Michael Sirois,0.26716666666666666
+264,M,train-other-500,22.55,Chris Hughes,0.37583333333333335
+265,M,train-other-500,10.38,Janice,0.17300000000000001
+272,M,train-clean-360,16.45,Mr. Baby Man,0.27416666666666667
+273,M,train-other-500,30.02,Jim Cadwell,0.5003333333333333
+274,F,train-clean-360,25.18,Eileen George,0.4196666666666667
+277,F,train-other-500,25.72,Alessia,0.42866666666666664
+278,F,train-clean-360,22.05,AliceG,0.3675
+283,M,train-other-500,15.42,Asaf Bartov,0.257
+288,F,train-clean-360,25.13,Bookworm,0.41883333333333334
+289,F,train-clean-100,19.64,Barbara Wedge,0.32733333333333337
+294,F,train-other-500,20.51,Calliope,0.3418333333333334
+296,M,train-clean-360,25.16,Carl Manchester,0.41933333333333334
+298,F,train-clean-100,25.0,Caroline Morse,0.4166666666666667
+302,F,train-clean-100,25.04,Chris Peterson,0.41733333333333333
+303,M,train-clean-360,25.03,Tony Hightower,0.4171666666666667
+307,M,train-clean-100,25.11,Randy Phillips,0.4185
+310,F,train-other-500,25.15,Dexnell Peters,0.41916666666666663
+311,M,train-clean-100,25.17,deadwhitemales,0.41950000000000004
+313,F,train-other-500,30.03,Dilini Jayasinghe,0.5005000000000001
+317,M,train-other-500,28.14,Mike Gardom,0.46900000000000003
+318,F,train-clean-360,25.17,Eileen aka e,0.41950000000000004
+319,M,train-other-500,30.07,Ed Good,0.5011666666666666
+322,F,train-clean-100,25.2,Elisabeth Shields,0.42
+323,F,train-clean-360,14.36,Erica Kuntz,0.23933333333333331
+328,F,train-clean-100,19.35,Elizabeth Palmer,0.3225
+329,M,train-clean-360,25.09,Todd Cranston-Cuebas,0.4181666666666667
+331,M,train-other-500,30.12,Richard Grove,0.502
+332,M,train-clean-100,19.0,Aaron Teiser,0.31666666666666665
+335,M,train-clean-360,25.08,Paul Harvey,0.418
+336,M,train-other-500,21.97,Harvey Chinn,0.36616666666666664
+337,F,train-clean-360,25.15,Barbara Harvey,0.41916666666666663
+339,F,train-clean-360,25.07,Heather Ordover,0.41783333333333333
+340,M,train-clean-360,25.17,Scott Henkel,0.41950000000000004
+345,M,train-clean-360,25.19,Micah Sheppard,0.41983333333333334
+348,M,train-other-500,30.02,ianish,0.5003333333333333
+353,M,train-clean-360,20.1,Jamey Osborne,0.335
+359,M,train-clean-360,25.08,John Nicholson,0.418
+362,F,train-clean-360,25.07,Judith Brown,0.41783333333333333
+365,M,train-other-500,30.01,Jon Ingram,0.5001666666666666
+366,F,train-other-500,30.12,Katy Preston,0.502
+367,F,test-other,6.74,Kathleen Dang,0.11233333333333334
+369,M,train-clean-360,19.56,Kevin Readdean,0.32599999999999996
+373,F,train-clean-360,25.18,Kim Braun,0.4196666666666667
+374,M,train-clean-100,25.16,kumarei,0.41933333333333334
+377,M,train-other-500,21.39,Lenny Glionna Jr.,0.3565
+380,F,train-clean-360,25.15,Laurie Campbell,0.41916666666666663
+392,F,train-other-500,23.64,Maria Celano,0.394
+398,M,train-clean-360,23.56,James Smith,0.39266666666666666
+402,F,train-other-500,30.19,Sharmini Kumar,0.5031666666666667
+403,F,train-clean-100,25.14,Nocturna,0.419
+404,F,train-other-500,24.68,Nomenphile,0.41133333333333333
+405,M,train-clean-100,25.04,Eric Dennison,0.41733333333333333
+408,F,train-clean-360,25.17,Claudine Chen,0.41950000000000004
+409,M,train-clean-360,25.13,Mike Kauffmann,0.41883333333333334
+412,M,train-clean-100,22.38,Brian Roberg,0.373
+413,M,train-other-500,19.72,Daniel Watkins,0.32866666666666666
+421,M,train-other-500,29.09,Patrick,0.48483333333333334
+422,M,dev-clean,8.38,President Lethe,0.1396666666666667
+426,F,train-clean-100,25.21,Norah Piehl,0.4201666666666667
+428,M,train-other-500,27.22,Rayburn Beale,0.45366666666666666
+432,M,train-other-500,30.1,Steve Andersen,0.5016666666666667
+434,F,train-clean-360,25.09,Joyce Nussbaum,0.4181666666666667
+439,M,train-clean-360,25.16,Robert Garrison,0.41933333333333334
+441,F,train-clean-100,25.19,"Sandra in Wales, United Kingdom",0.41983333333333334
+444,F,train-other-500,28.32,Sage Tyrtle,0.47200000000000003
+445,M,train-clean-100,11.08,Dave Foss,0.18466666666666667
+446,M,train-clean-100,25.0,Steve Hartzog,0.4166666666666667
+448,F,train-other-500,23.84,scrappylibrarian,0.3973333333333333
+451,F,train-clean-360,22.93,Sonserae Leese-Calver,0.38216666666666665
+453,M,train-other-500,22.78,Glen Hallstrom,0.3796666666666667
+454,M,train-clean-360,25.2,Tom Yates,0.42
+458,M,train-clean-100,17.3,Scott Splavec,0.28833333333333333
+459,M,train-clean-360,25.05,Mark Bradford,0.41750000000000004
+460,M,train-clean-100,25.23,Dave Ranson,0.4205
+464,M,train-clean-360,18.24,Mike Wilson,0.304
+466,F,train-other-500,30.21,Joy Chan,0.5035000000000001
+470,M,train-other-500,30.06,Chris Chapman,0.501
+472,F,train-clean-360,25.02,Tina Tilney,0.417
+474,M,train-other-500,29.0,Zachary Brewster-Geisz,0.48333333333333334
+475,M,train-clean-360,23.95,Jason X.,0.39916666666666667
+476,M,train-clean-360,25.08,Chuck Spann,0.418
+479,F,train-clean-360,25.0,wedschild,0.4166666666666667
+480,M,train-clean-360,25.13,Chris Vee,0.41883333333333334
+481,M,train-clean-100,25.08,Neal Foley,0.418
+483,F,train-other-500,26.75,junk science,0.44583333333333336
+487,M,train-clean-360,17.12,Clayton J. Smith,0.2853333333333333
+489,F,train-other-500,26.53,Tora,0.4421666666666667
+492,M,train-clean-360,25.19,TBOL3,0.41983333333333334
+497,M,train-clean-360,25.0,audiotoshokan,0.4166666666666667
+500,M,train-clean-360,25.04,galaxiant,0.41733333333333333
+501,M,train-clean-360,25.06,mikenkat,0.41766666666666663
+505,M,train-other-500,29.49,Menno,0.4915
+510,M,train-clean-360,25.07,Kirk Thomas,0.41783333333333333
+511,M,train-clean-360,25.23,Matthew Shepherd,0.4205
+512,M,train-clean-360,25.12,Anthony Craine,0.4186666666666667
+517,M,train-other-500,23.59,Matthew Walton,0.39316666666666666
+525,F,train-clean-360,25.03,Victoria Long,0.4171666666666667
+533,F,test-other,10.05,Ana Simao,0.1675
+534,F,train-clean-360,25.01,Jean O'Sullivan,0.41683333333333333
+542,M,train-other-500,29.87,J. Hall,0.49783333333333335
+543,M,train-clean-360,25.1,Ted Delorme,0.41833333333333333
+544,M,train-other-500,25.89,bozgeez,0.4315
+548,M,train-clean-360,25.14,Chris Mitchell,0.419
+549,F,train-clean-360,18.99,SarahHadley,0.31649999999999995
+551,M,train-other-500,30.2,Guntar,0.5033333333333333
+557,M,train-other-500,30.07,fieldsofgold,0.5011666666666666
+559,M,train-clean-360,25.16,Bill Stackpole,0.41933333333333334
+561,M,train-clean-360,24.78,Quentin,0.41300000000000003
+567,M,train-other-500,6.49,Aaron Benedict,0.10816666666666667
+568,M,train-other-500,30.21,JD Weber,0.5035000000000001
+569,M,train-other-500,8.36,Frank,0.13933333333333334
+572,M,train-other-500,29.18,Rebecca Dittman,0.48633333333333334
+576,F,train-clean-360,20.69,Caroline Mercier,0.3448333333333334
+580,M,train-clean-360,25.22,Ryan,0.42033333333333334
+581,M,train-clean-360,25.2,C. Berrius,0.42
+583,M,train-clean-360,24.67,Russ Maxwell,0.4111666666666667
+584,F,train-other-500,30.1,miette,0.5016666666666667
+585,F,train-other-500,30.05,pheo,0.5008333333333334
+587,F,train-clean-100,25.2,Joy Scaglione,0.42
+589,F,train-clean-360,25.01,Stephanie Konig,0.41683333333333333
+593,M,train-clean-360,24.55,Eric S. Piotrowski,0.4091666666666667
+594,M,train-clean-360,25.12,KentF,0.4186666666666667
+596,F,train-clean-360,25.0,Carol Goode,0.4166666666666667
+597,F,train-clean-360,25.25,Lisa Chau,0.42083333333333334
+598,F,train-clean-360,25.02,Kim,0.417
+606,M,train-clean-360,25.02,Julian Jamison,0.417
+608,F,train-other-500,30.09,Baranduin,0.5015
+612,F,train-clean-360,21.7,Cindy Steib,0.36166666666666664
+613,M,train-other-500,29.85,D.E. Wittkower,0.4975
+614,F,train-other-500,27.57,Christine Blachford,0.4595
+622,M,train-other-500,23.15,Andrew Lebrun,0.3858333333333333
+625,M,train-clean-100,25.01,toriasuncle,0.41683333333333333
+636,F,train-clean-360,25.03,Zale Schafer (Rose May Chamberlin Memorial Foundat,0.4171666666666667
+637,M,train-clean-360,25.11,Michael Scherer,0.4185
+639,M,train-clean-360,25.1,Robert Beach,0.41833333333333333
+644,M,train-other-500,30.17,Daniele,0.5028333333333334
+652,M,dev-clean,8.31,Scott Walter,0.1385
+663,M,train-clean-360,25.1,Bruce Stafford,0.41833333333333333
+664,F,train-clean-360,25.2,Wendy G.,0.42
+666,F,train-clean-360,24.58,Monique,0.4096666666666666
+667,F,train-clean-360,25.04,Bethany Simpson,0.41733333333333333
+669,F,train-clean-100,25.17,Anne,0.41950000000000004
+671,M,train-clean-360,24.11,koijmonop,0.4018333333333333
+672,M,test-clean,8.27,Taylor Burton-Edward,0.13783333333333334
+679,M,train-other-500,13.04,rhodian,0.21733333333333332
+681,F,train-other-500,30.01,Lucy Burgoyne,0.5001666666666666
+684,F,train-other-500,30.04,Lizzie Driver,0.5006666666666667
+688,F,train-clean-360,25.19,J. M. Smallheer,0.41983333333333334
+690,F,train-other-500,22.1,Silver,0.36833333333333335
+696,F,train-clean-100,25.11,Tamara R. Schwartz,0.4185
+698,F,train-clean-360,25.03,Randi Warwick,0.4171666666666667
+699,F,train-clean-360,25.06,Diana Kiesners,0.41766666666666663
+700,F,dev-other,10.01,Susan Hooks,0.16683333333333333
+705,F,train-other-500,30.09,eva,0.5015
+707,M,train-clean-360,24.76,Jason Mayoff,0.4126666666666667
+708,M,train-clean-360,21.01,Kevin Devine,0.3501666666666667
+711,M,train-clean-360,25.13,Roy Schreiber,0.41883333333333334
+712,M,train-other-500,28.91,Michael Shook,0.48183333333333334
+713,F,train-other-500,25.71,Onjana Yawnghwe,0.4285
+716,M,train-clean-360,22.52,martyd,0.37533333333333335
+718,M,train-clean-360,25.08,clarknova,0.418
+720,M,train-other-500,30.09,Peter Gallagher,0.5015
+724,M,train-clean-360,25.08,Michael Crowl,0.418
+726,M,train-other-500,30.19,Paul,0.5031666666666667
+727,M,train-other-500,27.18,Andrew Richards,0.453
+728,M,train-other-500,30.21,Eric Connover,0.5035000000000001
+730,F,train-clean-100,25.19,Karen Labenz,0.41983333333333334
+731,F,train-clean-360,25.14,Megan-Jane Daniels Suyasu,0.419
+737,M,train-other-500,24.83,Roger W. Barnett,0.41383333333333333
+742,M,train-other-500,18.38,Peter Groom,0.3063333333333333
+753,M,train-other-500,26.92,Tim Bulkeley,0.4486666666666667
+764,M,train-clean-360,25.08,"Carl Vonnoh, III",0.418
+766,M,train-other-500,24.41,Jean Crevier,0.4068333333333333
+770,M,train-clean-360,25.0,Justin S Barrett,0.4166666666666667
+774,F,train-other-500,8.75,Sara Walsh,0.14583333333333334
+777,M,dev-clean,8.06,fling93,0.13433333333333333
+778,M,train-other-500,30.17,Branko Collin,0.5028333333333334
+779,M,train-other-500,30.09,Greg,0.5015
+780,M,train-other-500,24.65,Lloyd Davis,0.41083333333333333
+781,M,train-clean-360,25.12,Mitchell Dwyer,0.4186666666666667
+782,F,train-other-500,30.18,Michele Pacey,0.503
+783,F,train-clean-360,23.98,Gina,0.39966666666666667
+789,F,train-other-500,17.71,Eva,0.2951666666666667
+791,M,train-other-500,27.56,Ivan,0.4593333333333333
+792,F,train-other-500,19.73,mjd-s,0.32883333333333337
+797,M,train-other-500,13.94,Mike Shapiro,0.23233333333333334
+803,M,train-clean-360,25.02,Greg Elmensdorp,0.417
+806,M,train-clean-360,22.41,Aaron Andradne,0.3735
+807,M,train-other-500,25.31,Luke Venediger,0.42183333333333334
+810,M,train-other-500,21.54,Joseph Loverti,0.359
+811,F,train-other-500,25.09,Elizabeth,0.4181666666666667
+815,M,train-clean-360,16.2,mawrtea,0.26999999999999996
+816,M,train-clean-360,23.23,Jeff Robinson,0.38716666666666666
+820,M,train-clean-360,24.64,Scoot,0.4106666666666667
+826,M,train-other-500,18.49,Thomas Wells,0.30816666666666664
+829,F,train-clean-360,25.14,frenchfry,0.419
+830,F,train-clean-360,22.26,sebrazer,0.37100000000000005
+831,M,train-clean-100,25.22,Nick Gallant,0.42033333333333334
+834,F,train-clean-360,25.14,nausicaa,0.419
+835,M,train-clean-360,18.61,echo,0.31016666666666665
+836,M,train-clean-360,25.01,Kevin LaVergne,0.41683333333333333
+839,M,train-clean-100,19.95,rovert405,0.33249999999999996
+844,F,train-other-500,27.3,Martina,0.455
+845,M,train-other-500,11.71,DaveF,0.19516666666666668
+846,M,train-other-500,30.12,Anadaxis_Canejia,0.502
+850,M,train-clean-360,22.03,tonypettit,0.3671666666666667
+851,M,train-other-500,9.02,brenthumphries,0.15033333333333332
+868,M,train-clean-360,25.07,Mike Rosenlof,0.41783333333333333
+876,F,train-other-500,22.85,Alisha,0.38083333333333336
+882,F,train-clean-360,24.14,Mur Lafferty,0.4023333333333333
+884,M,train-other-500,17.23,sayeth,0.2871666666666667
+886,M,train-other-500,24.31,Paul S. Jenkins,0.4051666666666666
+887,F,train-clean-100,25.11,Lana Taylor,0.4185
+895,M,train-other-500,15.01,Max Porter Zasada,0.25016666666666665
+899,M,train-clean-360,25.09,thomahal,0.4181666666666667
+908,M,test-clean,8.05,Sam Stinson,0.13416666666666668
+909,M,train-clean-100,25.0,Greg Bryant,0.4166666666666667
+911,M,train-clean-100,23.83,frankjf,0.3971666666666666
+915,M,train-other-500,21.21,Ted Kaouk,0.35350000000000004
+920,F,train-clean-360,21.36,Sarah Bean,0.356
+921,M,train-other-500,29.1,Brian J. Callaghan,0.48500000000000004
+922,M,train-clean-360,25.07,Steven H. Wilson,0.41783333333333333
+923,F,train-other-500,21.33,Layna,0.3555
+925,F,train-clean-360,25.22,pattymarie,0.42033333333333334
+927,M,train-other-500,26.13,Nerijus,0.4355
+937,F,train-other-500,30.14,Susie G.,0.5023333333333333
+948,F,train-clean-360,25.13,Chere Theriot,0.41883333333333334
+949,M,train-clean-360,25.08,ontheroad,0.418
+951,F,train-other-500,30.04,thomasina,0.5006666666666667
+953,M,train-clean-360,20.76,Jim Mullins,0.34600000000000003
+954,M,train-clean-360,14.44,Brooks Seveer,0.24066666666666667
+956,F,train-other-500,23.96,krithiga,0.3993333333333334
+957,M,train-clean-360,25.06,iscatel,0.41766666666666663
+960,F,train-other-500,27.55,Marloes Schoonheim,0.45916666666666667
+964,M,train-other-500,17.09,Paul Sze,0.2848333333333333
+968,F,train-clean-360,24.49,Pat Elder,0.4081666666666666
+969,M,train-other-500,30.1,Czechchris,0.5016666666666667
+976,F,train-other-500,30.11,Alison Raouf,0.5018333333333334
+978,M,train-other-500,27.56,Rick Box,0.4593333333333333
+979,F,train-clean-360,5.59,Kelli Robinson,0.09316666666666666
+982,M,train-other-500,22.28,Mike Roop,0.37133333333333335
+984,M,train-clean-360,23.39,J A Carter,0.38983333333333337
+985,M,train-other-500,30.05,George Pilling,0.5008333333333334
+986,M,train-clean-360,15.96,Michael Kirkpatrick,0.266
+1001,M,train-clean-360,25.25,Eric,0.42083333333333334
+1006,F,train-other-500,30.0,Marta Kornowska,0.5
+1012,F,train-clean-360,21.38,Lizzie Oldfather,0.35633333333333334
+1018,M,train-clean-360,25.07,JimmyLogan,0.41783333333333333
+1025,M,train-clean-360,22.99,rdmagpie,0.38316666666666666
+1027,M,train-clean-360,25.09,Brooks Jensen,0.4181666666666667
+1028,M,train-clean-360,25.03,Tim Lundeen,0.4171666666666667
+1031,F,train-clean-360,23.73,swroot,0.3955
+1034,M,train-clean-100,16.71,Kevin O'Coin,0.2785
+1040,M,train-clean-100,15.7,John Garvin,0.26166666666666666
+1046,M,train-clean-360,24.65,durnburr,0.41083333333333333
+1049,M,train-other-500,14.93,Sam Fold,0.24883333333333332
+1050,F,train-clean-360,25.04,entada,0.41733333333333333
+1051,F,train-other-500,28.33,E. Moulton,0.4721666666666666
+1052,F,train-clean-360,25.13,Kathy Jacobs,0.41883333333333334
+1053,F,train-clean-360,25.04,katyleah,0.41733333333333333
+1054,F,train-clean-360,24.8,Igor Teaforay,0.41333333333333333
+1058,M,train-clean-360,25.1,James Tiley,0.41833333333333333
+1060,F,train-clean-360,20.07,Val Grimm,0.3345
+1061,F,train-clean-360,25.14,Missie,0.419
+1065,M,train-other-500,30.18,Justin Brett,0.503
+1066,F,train-clean-360,25.2,Laurie Anne Walden,0.42
+1069,F,train-clean-100,25.15,Dawn,0.41916666666666663
+1079,F,train-clean-360,21.26,Mary aka Breadchick,0.35433333333333333
+1081,M,train-clean-100,25.18,Fracture,0.4196666666666667
+1084,F,train-other-500,29.12,Nichole Karl,0.48533333333333334
+1085,M,train-other-500,30.24,hefyd,0.504
+1088,F,train-clean-100,25.18,Christabel,0.4196666666666667
+1089,M,test-clean,8.05,Peter Bobbe,0.13416666666666668
+1092,F,train-other-500,30.17,Maria,0.5028333333333334
+1093,F,train-clean-360,25.11,Kiki Baessell,0.4185
+1094,M,train-other-500,30.03,tubeyes,0.5005000000000001
+1096,M,train-other-500,26.95,Geoff Dugwyler,0.44916666666666666
+1097,M,train-other-500,30.18,Euthymius,0.503
+1098,F,train-clean-100,18.31,Merryb,0.30516666666666664
+1100,F,train-clean-360,23.87,Danielle Flores,0.39783333333333337
+1107,M,train-other-500,30.1,Jason Oakley,0.5016666666666667
+1110,M,train-other-500,24.85,Graeme Jolliffe,0.4141666666666667
+1112,M,train-clean-360,25.15,RedToby,0.41916666666666663
+1116,F,train-clean-100,25.12,Megan Stemm-Wade,0.4186666666666667
+1121,M,train-clean-360,25.12,John Lieder,0.4186666666666667
+1124,F,train-other-500,30.03,Ancilla,0.5005000000000001
+1132,M,train-other-500,30.04,Giles Baker,0.5006666666666667
+1152,F,train-other-500,28.04,Millbeach,0.4673333333333333
+1154,F,train-other-500,30.12,Larysa Jaworski,0.502
+1160,M,train-clean-360,25.2,Gary Gilberd,0.42
+1161,M,train-other-500,21.87,Dominic Moore,0.3645
+1165,M,train-clean-360,25.13,Bob Graff,0.41883333333333334
+1166,F,train-other-500,21.27,Debra Lynn,0.3545
+1168,F,train-other-500,21.61,Ree,0.36016666666666663
+1171,F,train-other-500,30.01,Julia Claussen,0.5001666666666666
+1175,M,train-clean-360,25.02,Brother Patrick,0.417
+1179,M,train-other-500,28.84,Alan Chant,0.4806666666666667
+1182,M,train-clean-360,25.06,Brett Condron,0.41766666666666663
+1183,F,train-clean-100,9.72,roolynninms,0.162
+1184,M,train-other-500,28.84,Jeremy Pavier,0.4806666666666667
+1187,M,train-other-500,30.02,Paul Hansen,0.5003333333333333
+1188,M,test-clean,8.2,Duncan Murrell,0.13666666666666666
+1195,F,train-clean-360,25.03,Jennette Selig,0.4171666666666667
+1200,M,train-other-500,30.04,hosmer_angel,0.5006666666666667
+1212,F,train-clean-360,25.07,Lee Ann Howlett,0.41783333333333333
+1221,F,test-clean,8.07,Dianne,0.1345
+1222,M,train-clean-360,25.12,Joseph Ugoretz,0.4186666666666667
+1224,F,train-clean-360,22.11,Heather Duncan,0.3685
+1225,M,train-other-500,30.08,Chris Langston,0.5013333333333333
+1226,M,train-clean-360,25.11,Russ Lemker,0.4185
+1230,M,train-other-500,30.03,Ian Skillen,0.5005000000000001
+1235,M,train-clean-100,25.09,Tim Gregory,0.4181666666666667
+1239,M,train-other-500,20.69,Scott Robbins,0.3448333333333334
+1241,F,train-clean-360,25.12,Catherine Fitz,0.4186666666666667
+1246,F,train-clean-100,25.09,Sandra,0.4181666666666667
+1250,F,train-other-500,30.23,Christina Boyles,0.5038333333333334
+1252,F,train-other-500,15.47,Avery,0.25783333333333336
+1255,M,dev-other,10.03,Simon Evers,0.16716666666666666
+1258,M,train-other-500,18.03,Mellors,0.30050000000000004
+1259,F,train-clean-360,25.12,Elizabeth Klett,0.4186666666666667
+1260,M,train-other-500,24.01,Chris Hughes,0.40016666666666667
+1261,M,train-other-500,21.04,Mans Broo,0.3506666666666666
+1263,F,train-clean-100,25.16,Leonie Rose,0.41933333333333334
+1264,M,train-clean-360,25.01,Matthew Hinman,0.41683333333333333
+1265,M,train-clean-360,25.18,Edward Elmer,0.4196666666666667
+1266,F,train-other-500,27.94,Jenilee,0.4656666666666667
+1271,M,train-clean-360,25.18,Christian Pecaut,0.4196666666666667
+1272,M,dev-clean,8.02,John Rose,0.13366666666666666
+1274,M,train-other-500,15.99,Larry Gilman,0.2665
+1280,M,train-other-500,23.94,Tim Makarios,0.399
+1283,M,train-clean-360,24.22,Paul Siegel,0.4036666666666667
+1284,F,test-clean,8.16,Daniel Anaya,0.136
+1289,F,train-clean-360,25.0,Joanne Pauwels,0.4166666666666667
+1290,F,train-clean-360,15.49,librarianite,0.25816666666666666
+1291,F,train-other-500,28.53,Patti Brugman,0.47550000000000003
+1296,F,train-clean-360,25.09,Gigi Minden,0.4181666666666667
+1298,F,train-other-500,30.03,Wina Hathaway,0.5005000000000001
+1311,M,train-clean-360,25.04,Scott D. Farquhar,0.41733333333333333
+1313,M,train-clean-360,25.18,Scott Sherris,0.4196666666666667
+1316,M,train-clean-360,25.04,Estragon,0.41733333333333333
+1320,M,test-clean,8.02,number6,0.13366666666666666
+1322,M,train-clean-360,25.17,chris tierney,0.41950000000000004
+1323,M,train-clean-360,25.08,Leon Mire,0.418
+1331,M,train-other-500,28.73,Adrian Praetzellis,0.47883333333333333
+1334,M,train-clean-100,23.89,John Schell,0.39816666666666667
+1335,F,train-clean-360,25.08,Clarica,0.418
+1336,M,train-clean-360,25.19,Charlie Blakemore,0.41983333333333334
+1337,M,train-clean-360,25.02,Steven Rushing,0.417
+1341,M,train-other-500,28.77,Coastalbloke,0.4795
+1342,F,train-other-500,30.2,SueAnn Dozier,0.5033333333333333
+1343,F,train-clean-360,25.13,Laura Koskinen,0.41883333333333334
+1347,M,train-other-500,21.35,Ted Nugent,0.35583333333333333
+1348,F,train-clean-360,22.68,Janet Friday,0.378
+1349,M,train-clean-360,25.14,John Pruden,0.419
+1353,M,train-other-500,30.04,Clarke Bell,0.5006666666666667
+1355,M,train-clean-100,22.31,Chris Gladis,0.3718333333333333
+1363,F,train-clean-100,21.87,Tammy Sanders,0.3645
+1365,M,train-clean-360,25.19,Joel Poortenga,0.41983333333333334
+1367,M,train-other-500,30.12,Joe Brenneman,0.502
+1370,F,train-other-500,19.78,Lee Elliott,0.32966666666666666
+1373,F,train-other-500,26.93,Kira Belkin,0.4488333333333333
+1374,M,train-other-500,17.76,Graham Thomsen,0.29600000000000004
+1379,M,train-clean-360,25.09,Ken Crooker,0.4181666666666667
+1382,F,train-clean-360,21.44,Heather Lawrence,0.35733333333333334
+1383,M,train-clean-360,23.92,David Best,0.39866666666666667
+1384,M,train-other-500,24.51,Stephen Lamb,0.40850000000000003
+1387,M,train-clean-360,25.05,Scott Mather,0.41750000000000004
+1390,F,train-clean-360,16.65,C.L.Coney,0.27749999999999997
+1392,M,train-clean-360,25.22,Chris Masterson,0.42033333333333334
+1401,F,train-clean-360,25.19,Sibella Denton,0.41983333333333334
+1403,M,train-other-500,17.4,tipaew,0.29
+1413,M,train-clean-360,25.08,ryanaw,0.418
+1414,F,train-other-500,7.83,guava,0.1305
+1417,F,train-clean-360,25.19,Psuke Bariah,0.41983333333333334
+1421,F,train-other-500,28.68,Madame Tusk,0.478
+1422,F,train-clean-360,25.19,Yazpistachio,0.41983333333333334
+1425,F,train-clean-360,25.26,Jeanette Ferguson,0.42100000000000004
+1430,M,train-other-500,23.75,Alok Karulkar,0.3958333333333333
+1444,M,train-other-500,11.74,Ryan Mease,0.19566666666666668
+1445,M,train-clean-360,25.15,Michael Yard,0.41916666666666663
+1446,M,train-clean-360,25.01,Michael Loftus,0.41683333333333333
+1447,F,train-clean-100,25.18,Luigina,0.4196666666666667
+1448,F,train-clean-360,25.07,marevalo,0.41783333333333333
+1455,M,train-clean-100,25.13,webslog,0.41883333333333334
+1456,M,train-clean-360,25.12,Jason Isbell,0.4186666666666667
+1460,F,train-clean-360,25.01,E. Plein,0.41683333333333333
+1462,F,dev-clean,8.04,E. Tavano,0.13399999999999998
+1463,F,train-clean-360,25.23,Vivian Bush,0.4205
+1469,M,train-other-500,16.96,Fr. Richard Zeile of Detroit,0.2826666666666667
+1472,F,train-clean-360,25.15,Sarah Jennings,0.41916666666666663
+1473,M,train-clean-360,25.1,Dan Polanco,0.41833333333333333
+1474,F,train-other-500,30.03,Jc Guan,0.5005000000000001
+1482,M,train-clean-360,25.0,Joshua B. Christensen,0.4166666666666667
+1485,M,train-other-500,24.24,Robert Flach,0.40399999999999997
+1487,M,train-clean-360,23.93,radioreader,0.3988333333333333
+1492,M,train-other-500,30.14,mb,0.5023333333333333
+1494,M,train-other-500,6.27,"George Deprez, PhD",0.1045
+1495,M,train-other-500,24.44,Glendower Jones,0.4073333333333334
+1498,F,train-clean-360,18.38,Lori Hebel,0.3063333333333333
+1502,F,train-clean-100,25.05,Ann Boyer,0.41750000000000004
+1505,M,train-other-500,25.98,Mark Norman,0.433
+1509,F,train-clean-360,25.04,Miranda Stinson,0.41733333333333333
+1513,M,train-clean-360,25.11,Simon-Peter Zak,0.4185
+1535,M,train-clean-360,22.74,Robert Scott,0.37899999999999995
+1536,M,train-clean-360,25.23,Marco,0.4205
+1544,F,train-other-500,30.18,LilianaVale,0.503
+1545,F,train-other-500,9.17,AmyAG,0.15283333333333332
+1547,F,train-clean-360,17.45,Riddleman,0.29083333333333333
+1552,M,train-clean-360,15.62,Roger Turnau,0.2603333333333333
+1553,F,train-clean-100,22.49,Mim Ritty,0.3748333333333333
+1556,M,train-clean-360,25.13,geofred,0.41883333333333334
+1559,M,train-other-500,18.95,Luke Harrison,0.3158333333333333
+1563,F,train-other-500,13.26,Chandra Gioiello,0.221
+1564,F,train-other-500,22.58,Hedvig,0.3763333333333333
+1566,F,train-other-500,27.46,Anna Christensen,0.45766666666666667
+1569,F,train-other-500,25.0,Kristine Mackin,0.4166666666666667
+1571,M,train-clean-360,25.24,Bob Tassinari,0.42066666666666663
+1572,M,train-other-500,30.14,Alan Clare,0.5023333333333333
+1578,F,train-clean-100,25.01,Lorelle Anderson,0.41683333333333333
+1579,F,train-other-500,30.06,Philippa Willitts,0.501
+1580,F,test-clean,8.07,TinyPines,0.1345
+1585,F,dev-other,10.03,Nelly (),0.16716666666666666
+1593,F,train-other-500,28.9,Kristine Bekere,0.48166666666666663
+1594,M,train-clean-100,25.1,Jon Scott Jones,0.41833333333333333
+1595,M,train-other-500,30.22,Riccardo Fasol,0.5036666666666666
+1601,M,train-other-500,13.36,Michael Yourshaw,0.22266666666666665
+1603,M,train-clean-360,25.16,Arouet,0.41933333333333334
+1607,M,train-clean-360,24.74,Claude Banta,0.41233333333333333
+1614,M,train-other-500,30.11,FNH,0.5018333333333334
+1618,M,train-other-500,23.98,Nicholas James Bridgewater,0.39966666666666667
+1621,M,train-other-500,28.45,Caliban,0.4741666666666667
+1624,M,train-clean-100,22.03,Daniel Shorten,0.3671666666666667
+1629,F,train-clean-360,25.09,Gwyneth,0.4181666666666667
+1630,F,dev-other,10.06,spiritualbeing,0.16766666666666669
+1633,F,train-other-500,30.09,Beecher,0.5015
+1634,M,train-clean-360,17.65,daxm,0.29416666666666663
+1636,F,train-other-500,28.48,Sandra Zera,0.4746666666666667
+1638,M,train-clean-360,23.25,Kyle M.,0.3875
+1639,M,train-clean-360,25.07,Joe Konno,0.41783333333333333
+1641,F,train-clean-360,16.6,Rohanna,0.27666666666666667
+1643,M,train-other-500,12.85,Chris Leslie-Hynan,0.21416666666666667
+1645,M,train-clean-360,1.92,David Shamp,0.032
+1646,M,train-other-500,30.03,Ben Cobbett,0.5005000000000001
+1647,M,train-other-500,30.07,Rich Meyers,0.5011666666666666
+1648,F,train-other-500,8.01,Accent,0.1335
+1649,F,train-clean-360,25.04,Kalynda,0.41733333333333333
+1650,M,dev-other,10.07,WangHaojie,0.16783333333333333
+1651,M,dev-other,4.53,Brendan Hodge,0.0755
+1653,F,train-other-500,28.72,Carmina Sansone,0.47866666666666663
+1664,F,train-other-500,27.98,Shauna M,0.4663333333333333
+1665,F,train-other-500,30.11,Jessica AC Snyder,0.5018333333333334
+1668,F,train-clean-360,22.96,stepheather,0.38266666666666665
+1673,F,dev-clean,8.07,Tonia,0.1345
+1674,F,train-other-500,30.15,Jo,0.5025
+1678,F,train-clean-360,25.08,leonardswench,0.418
+1679,F,train-other-500,22.59,Polly,0.3765
+1680,F,train-other-500,18.27,intothelight,0.3045
+1681,F,train-other-500,28.9,islajane,0.48166666666666663
+1685,M,train-other-500,30.05,Jonathan Horniblow,0.5008333333333334
+1686,F,dev-other,10.11,neelma,0.16849999999999998
+1688,M,test-other,9.83,winam,0.16383333333333333
+1690,F,train-other-500,23.47,Anne-Marie,0.39116666666666666
+1691,F,train-other-500,25.27,Classicsfan,0.42116666666666663
+1693,F,train-other-500,9.41,4Cullen,0.15683333333333332
+1695,F,train-other-500,23.7,Steph,0.39499999999999996
+1696,F,train-other-500,24.25,Darcywil,0.4041666666666667
+1699,M,train-other-500,29.66,Gavin Smith,0.49433333333333335
+1701,M,dev-other,10.03,camelot2302,0.16716666666666666
+1704,F,train-other-500,19.92,JB,0.332
+1705,F,train-clean-360,23.78,tittletattle,0.39633333333333337
+1708,M,train-other-500,15.8,Alaaious,0.26333333333333336
+1710,F,train-other-500,12.02,Gilly,0.20033333333333334
+1714,F,train-other-500,16.02,lauralee,0.267
+1715,F,train-other-500,24.53,Marianna,0.4088333333333333
+1717,F,train-other-500,14.81,PJ,0.24683333333333335
+1721,F,train-other-500,19.66,Linnea,0.32766666666666666
+1723,M,train-clean-100,25.12,Rob Whelan,0.4186666666666667
+1724,F,train-clean-360,25.05,Anna Simon,0.41750000000000004
+1726,F,train-other-500,22.71,janeite,0.3785
+1731,F,train-clean-360,25.06,Dani,0.41766666666666663
+1733,F,train-other-500,22.94,Mira Cheskis,0.38233333333333336
+1734,F,train-clean-360,15.86,LuvDemBrooders,0.2643333333333333
+1736,F,train-other-500,29.58,LC,0.493
+1737,F,train-clean-100,25.04,Erin Hastings,0.41733333333333333
+1740,F,train-clean-360,25.22,Shubda,0.42033333333333334
+1743,M,train-clean-100,21.29,Bryan Ness,0.35483333333333333
+1746,M,train-other-500,21.36,Theo Bacher,0.356
+1748,M,train-clean-360,25.16,Brad Powers,0.41933333333333334
+1750,F,train-other-500,30.09,Lorie Heinrichs,0.5015
+1752,F,train-clean-360,22.9,Jan MacGillivray,0.38166666666666665
+1754,F,train-clean-360,25.08,Joan Freeman,0.418
+1756,F,train-other-500,30.02,Tamara Hamilton,0.5003333333333333
+1757,F,train-other-500,30.12,cricket,0.502
+1760,F,train-other-500,29.06,Matthew Howell,0.48433333333333334
+1765,F,train-other-500,22.66,Kelly Elizabeth,0.37766666666666665
+1767,F,train-other-500,26.17,Cori Dean,0.4361666666666667
+1769,M,train-clean-360,25.21,ej,0.4201666666666667
+1772,M,train-other-500,30.11,David A. Stokely,0.5018333333333334
+1773,F,train-other-500,30.05,Eliza Horne,0.5008333333333334
+1776,M,train-clean-360,25.17,Jim Eastman,0.41950000000000004
+1777,M,train-clean-360,25.14,Professor Chronotis,0.419
+1779,F,train-clean-360,18.05,Cynthia Zocca,0.30083333333333334
+1780,M,train-other-500,18.02,Micah,0.30033333333333334
+1784,F,train-other-500,21.61,grovejade,0.36016666666666663
+1789,M,train-clean-360,25.01,Vin Reilly,0.41683333333333333
+1795,M,train-other-500,17.33,Muhammad Mussnoon,0.28883333333333333
+1800,F,train-clean-360,25.14,Scarlett!,0.419
+1801,M,train-clean-360,16.59,Antonio,0.2765
+1804,F,train-other-500,30.12,Marie Manis,0.502
+1806,M,train-clean-360,25.05,Gary W. Sherwin,0.41750000000000004
+1809,F,train-other-500,23.28,cucciasv,0.388
+1811,M,train-clean-360,20.41,Eric Ray,0.3401666666666667
+1813,F,train-other-500,16.81,tesoro007,0.2801666666666666
+1815,M,train-other-500,27.79,Aringguth,0.46316666666666667
+1819,F,train-other-500,28.09,Shannon,0.4681666666666667
+1825,F,train-clean-360,25.0,srshel,0.4166666666666667
+1826,M,train-clean-360,25.18,Jacob Miller,0.4196666666666667
+1827,M,train-clean-360,10.55,Doug Wetzel,0.17583333333333334
+1828,M,train-other-500,28.27,James Gladwin,0.4711666666666667
+1841,F,train-clean-100,25.13,Laura Caldwell,0.41883333333333334
+1844,M,train-other-500,23.49,noonday,0.39149999999999996
+1845,F,train-clean-360,25.15,Katie Gibboney,0.41916666666666663
+1846,M,train-other-500,30.02,valikojohn,0.5003333333333333
+1849,M,train-clean-360,25.05,Kelly Dougherty,0.41750000000000004
+1851,F,train-clean-360,25.03,Kehinde,0.4171666666666667
+1859,F,train-clean-360,25.17,Jan Baxter,0.41950000000000004
+1863,F,train-other-500,21.5,Ania,0.35833333333333334
+1867,M,train-clean-100,25.16,Rowdy Delaney,0.41933333333333334
+1868,M,train-other-500,30.08,Graham Redman,0.5013333333333333
+1870,M,train-other-500,29.41,Stuart Bell,0.4901666666666667
+1874,M,train-clean-360,25.21,Ernst Schnell,0.4201666666666667
+1878,M,train-other-500,27.47,BLRossow,0.4578333333333333
+1885,F,train-clean-360,14.38,inkwelldragon,0.23966666666666667
+1898,F,train-clean-100,25.01,Jennifer,0.41683333333333333
+1901,F,train-other-500,30.01,Allyson Hester,0.5001666666666666
+1903,M,train-clean-360,24.21,Michael Thomas Robinson,0.4035
+1913,M,train-clean-360,25.03,Geoff Cowgill,0.4171666666666667
+1914,M,train-clean-360,25.04,Kevin Kivikko,0.41733333333333333
+1919,F,dev-clean,8.17,nprigoda,0.13616666666666666
+1920,F,train-other-500,30.05,Annika Feilbach,0.5008333333333334
+1923,F,train-clean-360,25.05,Maire Rhode,0.41750000000000004
+1924,M,train-other-500,30.21,Andrew Drinkwater,0.5035000000000001
+1926,F,train-clean-100,25.19,Nikki Sullivan,0.41983333333333334
+1931,F,train-other-500,15.74,poormedea,0.26233333333333336
+1933,F,train-clean-360,14.97,iremonger,0.2495
+1938,M,train-other-500,22.02,icyjumbo (1964-2010),0.367
+1943,M,train-clean-360,23.1,Corun,0.385
+1944,F,train-clean-360,25.03,Carolyn Frances,0.4171666666666667
+1958,M,train-clean-360,25.17,Furio,0.41950000000000004
+1961,F,train-clean-360,25.18,Qhali,0.4196666666666667
+1963,F,train-clean-100,25.19,Belinda Brown,0.41983333333333334
+1968,F,train-other-500,20.25,lizzyblack,0.3375
+1970,F,train-clean-100,25.13,Dawn Larsen,0.41883333333333334
+1974,F,train-clean-360,25.16,Katie Baynes,0.41933333333333334
+1977,F,train-other-500,27.8,Jennie Hughes,0.4633333333333333
+1985,M,train-other-500,24.71,Jonny Lee,0.41183333333333333
+1987,M,train-clean-360,25.19,Michael Macedonia,0.41983333333333334
+1988,F,dev-clean,8.16,Ransom,0.136
+1989,M,train-other-500,8.99,Sergio Baldelli,0.14983333333333335
+1992,F,train-clean-100,12.29,Michelle White,0.2048333333333333
+1993,F,dev-clean,8.11,Wendy Belcher,0.13516666666666666
+1995,F,test-clean,8.06,AJai Hilton,0.13433333333333333
+1998,F,test-other,10.02,Sonja,0.16699999999999998
+2001,M,train-other-500,19.9,Phillip David,0.33166666666666667
+2002,M,train-clean-100,24.94,Larry Maddocks,0.4156666666666667
+2003,M,train-other-500,23.18,The Penang Lawyer,0.3863333333333333
+2004,F,train-clean-360,25.26,Kim S,0.42100000000000004
+2007,F,train-clean-100,25.21,Sheila Morton,0.4201666666666667
+2010,F,train-clean-360,21.53,Julie Bynum,0.35883333333333334
+2012,M,train-clean-360,25.2,jburby,0.42
+2013,M,train-other-500,30.05,Mark,0.5008333333333334
+2021,M,train-other-500,30.04,Keri Ford,0.5006666666666667
+2026,F,train-other-500,29.39,Mil Nicholson,0.48983333333333334
+2033,M,test-other,10.03,Filippo Gioachin,0.16716666666666666
+2035,F,dev-clean,8.11,Sharon Bautista,0.13516666666666666
+2039,M,train-clean-360,25.02,Anton,0.417
+2042,F,train-other-500,29.25,Charlene V. Smith,0.4875
+2045,M,train-clean-360,24.96,David O'Connell,0.41600000000000004
+2046,M,train-other-500,19.01,kyleti,0.31683333333333336
+2050,F,train-other-500,28.21,Xe Sands,0.4701666666666667
+2051,M,train-other-500,22.13,Grant Petersen,0.3688333333333333
+2053,F,train-clean-360,25.03,Vincent Tapia,0.4171666666666667
+2056,F,train-clean-360,22.72,Nancy Roberts,0.37866666666666665
+2060,F,train-clean-360,25.02,Julie Pandya,0.417
+2061,F,train-clean-360,25.08,Jodi Krangle,0.418
+2062,F,train-other-500,30.25,Mindy H,0.5041666666666667
+2063,M,train-other-500,22.02,hearhis,0.367
+2067,M,train-other-500,30.15,Nick Gisburne,0.5025
+2068,F,train-other-500,14.75,"Priya, India",0.24583333333333332
+2074,M,train-clean-360,25.06,Tysto,0.41766666666666663
+2078,M,dev-clean,8.03,Kathy Caver,0.13383333333333333
+2085,F,train-clean-360,25.09,Stephanie Dupal-Demartin,0.4181666666666667
+2086,M,dev-clean,8.04,Nicodemus,0.13399999999999998
+2089,F,train-other-500,30.14,Martina,0.5023333333333333
+2090,F,train-other-500,26.41,Melissa,0.44016666666666665
+2092,F,train-clean-100,25.1,Elaine Hamby,0.41833333333333333
+2093,M,train-clean-360,25.11,RK Wilcox,0.4185
+2094,F,test-clean,8.09,amycsj,0.13483333333333333
+2096,M,train-other-500,15.93,Nick Marsh,0.2655
+2100,F,train-other-500,26.76,Katherine Holt,0.446
+2104,M,train-other-500,29.52,R. S. Steinberg,0.492
+2110,M,train-clean-360,25.09,Aaron Elliott,0.4181666666666667
+2113,M,train-clean-360,24.66,Andrew Vidal,0.411
+2122,M,train-other-500,10.61,Kenneth R. Morefield,0.17683333333333331
+2127,M,train-clean-360,20.16,wrongshore,0.336
+2133,M,train-other-500,28.63,Mat Messerschmidt,0.47716666666666663
+2136,M,train-clean-100,25.18,Great Plains,0.4196666666666667
+2137,M,train-clean-360,25.02,Jerome Lawsen,0.417
+2140,M,train-other-500,27.77,Ralph Snelson,0.4628333333333333
+2143,F,train-other-500,15.47,Cat Schirf,0.25783333333333336
+2146,M,train-clean-360,4.89,Jeff Stuckey,0.08149999999999999
+2148,F,train-other-500,30.17,BethAnne,0.5028333333333334
+2149,M,train-clean-360,23.08,Mark Penfold,0.38466666666666666
+2152,F,train-other-500,30.04,redabrus,0.5006666666666667
+2156,M,train-clean-360,25.18,Roger Melin,0.4196666666666667
+2159,M,train-clean-100,25.12,Matthew Westra,0.4186666666666667
+2162,M,train-clean-360,25.1,Ray Clare,0.41833333333333333
+2167,M,train-clean-360,25.0,spiderman0521,0.4166666666666667
+2182,F,train-clean-100,25.15,Susan Umpleby,0.41916666666666663
+2185,M,train-other-500,24.88,Jonathan Feldman,0.41466666666666663
+2194,F,train-clean-360,25.06,RobbieRogers,0.41766666666666663
+2195,M,train-other-500,29.06,Joe Earley,0.48433333333333334
+2196,F,train-clean-100,25.24,Andrea Fiore,0.42066666666666663
+2198,M,train-other-500,29.82,Clive Catterall,0.497
+2201,M,train-clean-360,25.13,Stephen Escalera,0.41883333333333334
+2204,F,train-clean-360,25.04,Pamnache,0.41733333333333333
+2208,M,train-other-500,28.66,Alan Brown,0.4776666666666667
+2229,M,train-clean-360,21.96,"Pete Williams, Pittsburgh, PA",0.366
+2230,F,train-clean-360,25.03,Isosceles,0.4171666666666667
+2234,M,train-other-500,30.06,Lars Rolander,0.501
+2237,F,train-other-500,23.41,Chloey Winters,0.39016666666666666
+2238,M,train-clean-360,25.09,Will Larson,0.4181666666666667
+2240,M,train-clean-360,25.17,Ralph Volpi,0.41950000000000004
+2246,M,train-other-500,30.11,RaySee,0.5018333333333334
+2254,F,train-clean-360,25.07,Heidi Preuss,0.41783333333333333
+2256,F,train-clean-360,25.06,tamurile,0.41766666666666663
+2262,M,train-other-500,25.53,Andy,0.42550000000000004
+2269,F,train-clean-360,25.06,Rhonda Federman,0.41766666666666663
+2270,F,train-other-500,30.08,Megan Kunkel,0.5013333333333333
+2272,M,train-clean-360,25.18,Alec Daitsman,0.4196666666666667
+2273,M,train-other-500,22.65,Peter Kelleher,0.3775
+2275,F,train-other-500,19.97,Lori H,0.3328333333333333
+2276,F,train-other-500,30.09,Andrea,0.5015
+2277,F,dev-clean,8.01,zinniz,0.1335
+2279,M,train-other-500,20.83,Gilles Lehoux,0.3471666666666666
+2284,M,train-other-500,30.2,Zapo,0.5033333333333333
+2285,M,train-clean-360,25.16,Bob Sage,0.41933333333333334
+2288,F,train-other-500,30.13,Ellis Christoff,0.5021666666666667
+2289,M,train-clean-100,25.08,David Kleparek,0.418
+2292,M,train-other-500,30.17,Dick Durette,0.5028333333333334
+2294,M,train-clean-360,25.24,James Christopher,0.42066666666666663
+2297,F,train-other-500,30.2,Philippa,0.5033333333333333
+2299,M,train-clean-360,25.23,cpalmer17,0.4205
+2300,M,test-clean,8.19,Mitchell L Leopard,0.13649999999999998
+2301,F,train-other-500,30.09,Chris Jones,0.5015
+2309,M,train-other-500,30.03,Wyatt,0.5005000000000001
+2312,F,train-other-500,30.22,Lucy Lo Faro,0.5036666666666666
+2319,M,train-clean-360,25.21,Jack Farrell,0.4201666666666667
+2334,M,train-clean-360,25.03,David Lipa,0.4171666666666667
+2339,F,train-other-500,30.09,skellie,0.5015
+2341,M,train-other-500,30.04,webround,0.5006666666666667
+2346,F,train-other-500,17.91,FirstKnight,0.2985
+2348,F,train-clean-360,22.53,KellyLC,0.3755
+2351,F,train-other-500,30.08,hugoceline,0.5013333333333333
+2356,M,train-other-500,30.2,Paul Curran,0.5033333333333333
+2361,F,train-other-500,30.24,M. J. Boyle,0.504
+2364,F,train-clean-360,23.86,Anna-Maria Viola,0.39766666666666667
+2368,M,train-clean-360,25.08,Alex C. Telander,0.418
+2374,F,train-other-500,21.75,M.C.Y.,0.3625
+2380,M,train-other-500,17.0,Jacob Cherry,0.2833333333333333
+2384,M,train-clean-100,20.21,Ger,0.3368333333333334
+2388,M,train-clean-360,25.01,Greg Bell,0.41683333333333333
+2391,F,train-clean-100,24.54,treefingers,0.409
+2393,M,train-clean-360,22.63,Michael Bradford,0.37716666666666665
+2397,M,train-clean-360,25.14,texttalker,0.419
+2401,F,train-clean-360,21.95,Matt Warzel,0.36583333333333334
+2404,M,train-clean-360,25.21,n8evv,0.4201666666666667
+2405,M,train-other-500,30.11,musil,0.5018333333333334
+2407,M,train-other-500,28.95,ajmacbeth,0.4825
+2411,F,train-clean-360,25.04,kristiface,0.41733333333333333
+2412,F,dev-clean,8.06,calystra,0.13433333333333333
+2414,M,test-other,10.1,Ashwin Jain,0.16833333333333333
+2416,F,train-clean-100,25.17,Julia Albath,0.41950000000000004
+2427,M,train-clean-360,25.02,Ed Meade,0.417
+2428,M,dev-clean,8.02,Stephen Kinford,0.13366666666666666
+2436,M,train-clean-100,25.15,Seth Adam Sher,0.41916666666666663
+2437,M,train-other-500,21.23,Wetcoast,0.35383333333333333
+2445,F,train-other-500,13.04,musici123,0.21733333333333332
+2448,M,train-other-500,23.07,David Federman,0.3845
+2473,M,train-clean-360,25.16,Hoosemon,0.41933333333333334
+2481,F,train-clean-360,25.07,Alana Jordan,0.41783333333333333
+2485,F,train-other-500,30.03,Serin,0.5005000000000001
+2487,F,train-other-500,28.17,Rachel Lintern,0.46950000000000003
+2488,F,train-other-500,30.16,Lisa Wilson,0.5026666666666667
+2491,M,train-other-500,20.67,johnb,0.34450000000000003
+2494,M,train-clean-360,25.03,Mark Cawley,0.4171666666666667
+2496,M,train-other-500,30.1,Ben Dutton,0.5016666666666667
+2498,F,train-clean-360,25.05,B. Grebe,0.41750000000000004
+2499,M,train-clean-360,25.14,Paul Henry Tremblay,0.419
+2504,F,train-other-500,14.22,Helen Elsbeth,0.23700000000000002
+2506,F,dev-other,8.52,Julie VW,0.142
+2512,F,train-clean-360,24.05,Marion,0.4008333333333333
+2514,M,train-clean-100,25.11,S. Young,0.4185
+2517,M,train-clean-360,25.25,Gayland Darnell,0.42083333333333334
+2518,M,train-clean-100,25.06,Rob Powell,0.41766666666666663
+2522,F,train-other-500,23.34,senshisteph,0.389
+2526,M,train-other-500,30.09,Bob Gilham,0.5015
+2531,M,train-clean-360,25.12,Greg Weeks,0.4186666666666667
+2532,F,train-clean-360,25.11,Jennifer Lott,0.4185
+2533,M,train-clean-360,15.81,Steven Proctor,0.2635
+2541,M,train-other-500,30.04,Eddie Winter,0.5006666666666667
+2544,F,train-other-500,30.02,Annise,0.5003333333333333
+2545,M,train-other-500,15.29,the quiet fox,0.2548333333333333
+2552,M,train-other-500,28.82,Daniel Cranston,0.48033333333333333
+2553,F,train-other-500,30.04,daisy55,0.5006666666666667
+2562,M,train-clean-360,25.19,Scott Merrill,0.41983333333333334
+2568,F,train-other-500,30.07,Elena the Quiet,0.5011666666666666
+2570,F,train-clean-360,25.05,kindlibrarian,0.41750000000000004
+2573,F,train-clean-360,25.0,Becca B,0.4166666666666667
+2574,M,train-other-500,28.34,TimSC,0.4723333333333333
+2577,F,train-clean-360,25.16,K Hindall,0.41933333333333334
+2581,F,train-clean-360,25.12,Julie Levi,0.4186666666666667
+2582,F,train-clean-360,25.16,dolce,0.41933333333333334
+2587,F,train-other-500,30.13,Anne Cheng,0.5021666666666667
+2588,M,train-other-500,26.44,Padraig O'hIceadha,0.4406666666666667
+2589,M,train-clean-360,25.04,Jordan,0.41733333333333333
+2592,F,train-clean-360,20.82,Anna Roberts,0.34700000000000003
+2598,F,train-clean-360,23.05,Barbara Bulkeley,0.38416666666666666
+2606,M,train-other-500,30.16,Marc Tanti,0.5026666666666667
+2607,F,train-other-500,30.11,Ruth Golding,0.5018333333333334
+2609,M,test-other,10.1,Ian Hatley,0.16833333333333333
+2618,M,train-clean-360,24.51,Phil Surette,0.40850000000000003
+2624,M,train-other-500,30.05,David Nicol,0.5008333333333334
+2625,F,train-other-500,20.53,Auntie Em,0.3421666666666667
+2628,M,train-clean-360,25.22,Zloot,0.42033333333333334
+2638,F,train-clean-360,25.02,Dawn,0.417
+2652,F,train-clean-360,15.01,MixieArmadillo,0.25016666666666665
+2654,M,train-clean-360,16.45,Notelrac,0.27416666666666667
+2660,M,train-other-500,30.01,mpetranech,0.5001666666666666
+2671,F,train-other-500,21.49,Foreign Girl,0.35816666666666663
+2673,M,train-clean-360,25.06,jude kaider,0.41766666666666663
+2674,M,train-clean-360,24.32,Jason Procopio,0.4053333333333333
+2676,F,train-other-500,27.44,missizii,0.45733333333333337
+2688,M,train-clean-360,25.15,Christopher Jennings,0.41916666666666663
+2691,F,train-clean-100,25.16,Donna Stewart,0.41933333333333334
+2694,F,train-other-500,29.43,DianaJMB,0.4905
+2696,M,train-clean-360,15.92,anonymous,0.2653333333333333
+2709,F,train-clean-360,17.49,PopularOutcast,0.2915
+2712,F,train-other-500,27.11,anoldfashiongirl,0.4518333333333333
+2724,M,train-other-500,20.73,Michael Dalling,0.34550000000000003
+2730,F,train-other-500,24.25,Shirley Anderson,0.4041666666666667
+2733,M,train-other-500,15.37,CalmDragon,0.25616666666666665
+2735,F,train-other-500,14.04,ASchindler,0.23399999999999999
+2740,M,train-other-500,22.19,Tony Ashworth,0.36983333333333335
+2741,F,train-clean-360,25.21,Jan Dawn Doronila,0.4201666666666667
+2748,F,train-other-500,24.78,Annoying Twit,0.41300000000000003
+2751,F,train-clean-360,24.39,Angela Kelley,0.40650000000000003
+2754,F,train-other-500,30.12,peaceuntoyou,0.502
+2758,F,train-clean-360,25.19,SopranoHarmony,0.41983333333333334
+2762,F,train-other-500,30.01,Phillipa Chantry,0.5001666666666666
+2764,F,train-clean-100,25.19,Piper Hale,0.41983333333333334
+2769,M,train-clean-360,25.25,Anthony Wilson,0.42083333333333334
+2774,M,train-clean-360,25.14,William Kevin Manire,0.419
+2775,F,train-clean-360,25.17,ink tree,0.41950000000000004
+2785,F,train-clean-360,25.23,humeangel,0.4205
+2787,M,train-clean-360,19.66,Quentin Manuel,0.32766666666666666
+2790,F,train-clean-360,25.09,Victoria Slonosky,0.4181666666666667
+2792,F,train-other-500,30.16,Varra Unreal,0.5026666666666667
+2803,M,dev-clean,8.2,aquielisunari,0.13666666666666666
+2812,M,train-clean-360,14.63,Greg Hartley,0.24383333333333335
+2815,M,train-clean-360,15.98,Michael Sample,0.26633333333333337
+2816,M,train-clean-360,25.19,Andrew Symons,0.41983333333333334
+2817,F,train-clean-100,25.14,Catherine Millward,0.419
+2823,M,train-clean-360,18.78,ChrisC,0.313
+2825,M,train-other-500,30.02,Ernst Pattynama,0.5003333333333333
+2827,M,train-clean-360,21.49,David Leeson,0.35816666666666663
+2830,M,test-clean,8.04,Tim Perkins,0.13399999999999998
+2834,F,train-other-500,30.02,Ksushi,0.5003333333333333
+2836,F,train-clean-100,25.12,Linda McDaniel,0.4186666666666667
+2843,M,train-clean-100,25.18,ricell,0.4196666666666667
+2853,F,train-clean-360,25.0,Jane Greensmith,0.4166666666666667
+2854,M,train-other-500,30.25,Andrew Coleman,0.5041666666666667
+2882,F,train-clean-360,23.84,ayngelwing,0.3973333333333333
+2893,M,train-clean-100,24.41,Ryan Sutter,0.4068333333333333
+2895,F,train-other-500,24.14,Jenny Lundak,0.4023333333333333
+2902,M,dev-clean,8.1,dexter,0.13499999999999998
+2909,F,train-other-500,30.13,Petra,0.5021666666666667
+2910,F,train-clean-100,22.33,Janna,0.37216666666666665
+2911,M,train-clean-100,25.1,David Lawrence,0.41833333333333333
+2919,F,train-other-500,30.17,Raerity,0.5028333333333334
+2920,F,train-clean-360,25.18,Rechelle,0.4196666666666667
+2925,F,train-other-500,26.47,Darla,0.44116666666666665
+2929,M,train-clean-360,25.15,Topaz,0.41916666666666663
+2930,M,train-other-500,20.36,BUAES,0.3393333333333333
+2943,F,train-other-500,30.09,Sarah Gutierrez,0.5015
+2946,M,train-other-500,19.68,Markus Wachenheim,0.328
+2952,M,train-clean-100,25.02,Scott Carpenter,0.417
+2960,M,train-clean-360,25.03,Scotty,0.4171666666666667
+2961,F,test-clean,8.07,Leni,0.1345
+2967,F,train-other-500,30.26,Landii,0.5043333333333334
+2971,M,train-clean-360,25.01,Matthew C. Heckel,0.41683333333333333
+2975,F,train-other-500,26.46,Sarafina Suransky,0.441
+2979,F,train-other-500,18.85,Jilliane Brandt,0.3141666666666667
+2985,M,train-other-500,21.98,Cantor,0.36633333333333334
+2988,F,train-other-500,30.16,Larissa Little,0.5026666666666667
+2989,F,train-clean-100,25.21,"Jamie Strassenburg, Cypress, California",0.4201666666666667
+2990,M,train-other-500,30.07,Tom Crawford,0.5011666666666666
+2992,M,train-clean-360,24.13,davechase,0.4021666666666667
+2997,F,train-other-500,30.26,Violet,0.5043333333333334
+2998,M,train-other-500,30.04,Kim Jansen,0.5006666666666667
+2999,M,train-clean-360,25.16,Joseph Finkberg,0.41933333333333334
+3000,M,dev-clean,8.03,Brian von Dedenroth,0.13383333333333333
+3001,F,train-clean-360,21.97,priscilla hewitt,0.36616666666666664
+3003,F,train-clean-360,25.09,Sue Anderson,0.4181666666666667
+3005,M,test-other,10.04,Ken Tischler,0.1673333333333333
+3006,F,train-other-500,30.14,MorganScorpion,0.5023333333333333
+3008,F,train-clean-360,25.17,Gloria Zbilicki,0.41950000000000004
+3009,M,train-clean-360,25.0,Jim Ruddy,0.4166666666666667
+3020,M,train-other-500,30.07,Mike Vendetti,0.5011666666666666
+3021,M,train-other-500,29.27,leetcr,0.48783333333333334
+3025,F,train-clean-360,25.07,MichelleHarris,0.41783333333333333
+3032,M,train-clean-360,25.1,Utek,0.41833333333333333
+3033,F,train-other-500,30.09,valli,0.5015
+3045,M,train-other-500,27.99,Cameron Conaway,0.46649999999999997
+3046,F,train-clean-360,25.21,Stephanie Land,0.4201666666666667
+3053,F,train-other-500,20.98,Tracy Yonemoto,0.3496666666666667
+3054,M,train-other-500,23.13,GerryR,0.3855
+3060,M,train-other-500,26.15,Didier,0.4358333333333333
+3063,M,train-other-500,25.29,markman,0.4215
+3070,M,train-clean-360,25.15,Mike Schwabe,0.41916666666666663
+3072,M,train-clean-360,25.05,Chris Amos,0.41750000000000004
+3079,F,train-other-500,7.1,nivedita,0.11833333333333333
+3080,F,test-other,10.13,breathe,0.16883333333333334
+3081,F,dev-clean,8.0,Renata,0.13333333333333333
+3082,M,train-clean-360,17.05,Logan McCamon,0.2841666666666667
+3083,F,train-clean-360,25.06,Emily Jarmard,0.41766666666666663
+3088,M,train-other-500,14.21,Sean O'Hara,0.23683333333333334
+3090,F,train-other-500,22.39,kelcymx,0.3731666666666667
+3092,F,train-clean-360,25.06,Maggie Russell,0.41766666666666663
+3094,F,train-clean-360,25.1,moe,0.41833333333333333
+3097,M,train-other-500,28.71,nitram,0.47850000000000004
+3098,M,train-other-500,28.85,woggy298,0.48083333333333333
+3100,M,train-other-500,29.56,David Higham,0.49266666666666664
+3105,M,train-clean-360,25.2,gfairch511,0.42
+3109,M,train-other-500,30.2,Diogenes Dog,0.5033333333333333
+3112,F,train-clean-100,25.08,Jessica Louise,0.418
+3114,M,train-clean-360,25.04,Geoffrey Edwards,0.41733333333333333
+3118,M,train-clean-360,25.06,George Yeager,0.41766666666666663
+3119,F,train-clean-360,25.18,Sharon Riskedahl,0.4196666666666667
+3125,F,train-other-500,30.23,Fran,0.5038333333333334
+3132,M,train-other-500,29.97,Andy Yu,0.4995
+3135,M,train-other-500,20.03,Steve Foreman,0.33383333333333337
+3137,M,train-other-500,20.23,Parrot,0.33716666666666667
+3138,F,train-other-500,3.53,Labyrinth Composer,0.05883333333333333
+3142,M,train-other-500,15.12,RogerA,0.252
+3143,F,train-other-500,23.59,suzanne,0.39316666666666666
+3144,M,train-other-500,30.01,jfmarchini,0.5001666666666666
+3148,M,train-other-500,18.41,artos,0.30683333333333335
+3157,F,train-clean-360,25.05,TriciaG,0.41750000000000004
+3168,M,train-clean-100,23.9,David Anton,0.3983333333333333
+3170,M,dev-clean,8.1,VOICEGUY,0.13499999999999998
+3171,M,train-clean-360,25.11,JoeD,0.4185
+3172,F,train-other-500,29.24,Beatrice,0.4873333333333333
+3179,F,train-other-500,26.8,Robin,0.44666666666666666
+3180,M,train-clean-360,25.01,Mike Conrad,0.41683333333333333
+3185,M,train-clean-360,25.02,JohnNewman,0.417
+3187,M,train-clean-360,24.32,Wasichu,0.4053333333333333
+3192,M,train-other-500,30.07,Arfuhrm,0.5011666666666666
+3196,F,train-other-500,30.19,Elizabeth Harker,0.5031666666666667
+3214,M,train-clean-100,25.08,fourteatoo,0.418
+3215,F,train-clean-360,25.02,Shirley Ellen,0.417
+3221,M,train-clean-360,25.12,David Schoepf,0.4186666666666667
+3224,F,train-clean-360,25.19,Acacia Wood,0.41983333333333334
+3227,F,train-other-500,17.26,Betina,0.2876666666666667
+3228,F,train-clean-360,25.01,Benuathanasia,0.41683333333333333
+3230,M,train-clean-360,25.13,rasputin,0.41883333333333334
+3235,F,train-clean-100,24.94,Karen Commins,0.4156666666666667
+3238,M,train-other-500,19.07,nihilist00,0.31783333333333336
+3240,M,train-clean-100,25.09,flakker,0.4181666666666667
+3242,M,train-clean-100,25.03,peac,0.4171666666666667
+3244,F,train-other-500,30.09,wilwarin,0.5015
+3245,F,train-other-500,30.1,wendy,0.5016666666666667
+3257,M,train-other-500,30.17,Jay Vance,0.5028333333333334
+3258,F,train-clean-360,23.5,mwalimu,0.39166666666666666
+3259,F,train-clean-100,25.19,Kate West,0.41983333333333334
+3261,M,train-other-500,16.03,fourgrays,0.26716666666666666
+3268,M,train-other-500,30.06,Patrick McHaffie,0.501
+3271,M,train-other-500,19.99,Ancient mariner,0.33316666666666667
+3272,M,train-other-500,19.89,Matthew_J_Almeida,0.3315
+3274,M,train-clean-360,25.26,Morgan Saletta,0.42100000000000004
+3285,M,train-other-500,30.03,David Collins,0.5005000000000001
+3288,M,train-other-500,30.09,Euan Bayliss,0.5015
+3289,M,train-clean-360,25.06,lukeprog,0.41766666666666663
+3290,F,train-other-500,29.75,Marian Martin,0.49583333333333335
+3294,F,train-clean-360,19.45,Marcy Fraser,0.32416666666666666
+3307,M,train-clean-360,25.06,Doug Allison,0.41766666666666663
+3314,F,train-other-500,30.14,Carol Stripling,0.5023333333333333
+3318,F,train-other-500,30.19,Magdalena,0.5031666666666667
+3319,F,train-other-500,28.56,mjbrichant,0.476
+3328,M,train-clean-360,25.16,Al Dano,0.41933333333333334
+3330,F,train-clean-360,25.1,B. G. Oxford,0.41833333333333333
+3331,F,test-other,10.08,Peggy,0.168
+3334,F,train-other-500,14.57,joi,0.24283333333333335
+3340,M,train-clean-360,25.12,Preston McConkie,0.4186666666666667
+3346,F,train-other-500,30.03,Hannah Dowell,0.5005000000000001
+3347,F,train-clean-360,25.23,tornadogrrrl,0.4205
+3356,F,train-other-500,20.03,Diana Solomon,0.33383333333333337
+3357,F,train-clean-360,24.37,swade,0.4061666666666667
+3361,F,train-clean-360,25.19,Linda Lee Paquet,0.41983333333333334
+3368,M,train-clean-360,25.19,Jim Allman,0.41983333333333334
+3370,M,train-clean-360,25.16,Glenn Simonsen,0.41933333333333334
+3373,M,train-other-500,18.98,cvd,0.31633333333333336
+3374,M,train-clean-100,25.17,Craig Campbell,0.41950000000000004
+3379,F,train-clean-360,25.09,Kele,0.4181666666666667
+3380,F,train-clean-360,25.06,DrBeccaAnne,0.41766666666666663
+3381,M,train-other-500,2.99,Cagliostro,0.049833333333333334
+3389,M,train-clean-360,25.25,von,0.42083333333333334
+3394,F,train-other-500,30.03,Jackie Provau,0.5005000000000001
+3400,F,train-other-500,17.98,Laura Davis,0.2996666666666667
+3409,F,train-other-500,30.24,Philippa Brodie,0.504
+3411,F,train-other-500,28.43,SuD,0.47383333333333333
+3417,M,train-other-500,17.97,Albatross,0.2995
+3433,M,train-other-500,30.24,Bob Sherman,0.504
+3436,M,train-clean-100,25.25,Anders Lankford,0.42083333333333334
+3440,F,train-clean-100,25.18,Heidi Will,0.4196666666666667
+3446,F,train-clean-360,25.24,kayo,0.42066666666666663
+3448,M,train-clean-360,25.24,Todd Lennon,0.42066666666666663
+3465,F,train-other-500,29.59,ravenotation,0.49316666666666664
+3467,F,train-other-500,30.23,js392,0.5038333333333334
+3470,M,train-other-500,30.11,Jason Mills,0.5018333333333334
+3479,F,train-other-500,30.09,Karan Yamada,0.5015
+3482,F,train-clean-360,25.22,Hayden,0.42033333333333334
+3483,M,train-clean-360,25.2,Alan Winterrowd,0.42
+3486,M,train-clean-100,25.08,Robin Balmer,0.418
+3488,M,train-other-500,17.57,Tom Weiss,0.29283333333333333
+3490,M,train-clean-360,25.1,Gregg Margarite (1957-2012),0.41833333333333333
+3493,F,train-clean-360,21.49,Gail Mattern,0.35816666666666663
+3500,F,train-other-500,28.86,B. Treadgold,0.481
+3503,M,train-other-500,28.15,Christian Al-Kadi,0.4691666666666666
+3513,F,train-clean-360,25.01,Symmie,0.41683333333333333
+3521,M,train-clean-360,25.07,NickNumber,0.41783333333333333
+3526,F,train-clean-100,25.18,Bereni,0.4196666666666667
+3528,F,test-other,10.26,minimoose83,0.17099999999999999
+3536,F,dev-clean,8.15,Arielle Lipshaw,0.13583333333333333
+3537,F,train-clean-360,25.1,Tracy Datlen,0.41833333333333333
+3538,F,test-other,10.03,Wyndelyn,0.16716666666666666
+3540,M,train-clean-360,24.55,Bill Ruhsam,0.4091666666666667
+3541,M,train-other-500,30.14,Termin Dyan,0.5023333333333333
+3546,F,train-clean-360,25.21,Jeannie,0.4201666666666667
+3547,M,train-other-500,30.11,BenW,0.5018333333333334
+3549,F,train-clean-360,25.05,Katie Riley,0.41750000000000004
+3551,F,train-clean-360,25.1,Annie Kirkpatrick,0.41833333333333333
+3553,M,train-other-500,25.03,Luc Kordas,0.4171666666666667
+3554,F,train-other-500,30.06,"LaraC, Louisville, KY",0.501
+3557,F,train-other-500,30.08,Rachel Triska,0.5013333333333333
+3559,F,train-other-500,30.06,Kerry Hiles,0.501
+3564,F,train-other-500,24.04,Vanessa,0.40066666666666667
+3567,M,train-other-500,30.12,David Lazarus,0.502
+3570,F,test-clean,8.05,sarac,0.13416666666666668
+3571,M,train-other-500,23.68,HarryInk,0.39466666666666667
+3575,F,test-clean,8.06,supergirl,0.13433333333333333
+3576,F,dev-clean,8.0,JudyGibson,0.13333333333333333
+3584,F,train-clean-360,22.3,Bridget Gaige,0.3716666666666667
+3587,M,train-other-500,25.46,John Nixon,0.42433333333333334
+3588,F,train-other-500,30.06,Neeru Iyer,0.501
+3592,M,train-other-500,10.77,Paul McCartan,0.1795
+3595,M,train-other-500,30.07,Martin Geeson,0.5011666666666666
+3598,F,train-other-500,26.07,Dawn,0.4345
+3606,M,train-other-500,28.34,Ashwath Ganesan,0.4723333333333333
+3607,M,train-clean-100,22.1,Richard Wallis,0.36833333333333335
+3615,F,train-clean-360,25.05,Lucy Perry,0.41750000000000004
+3618,M,train-other-500,26.32,Timothy Ferguson,0.43866666666666665
+3630,F,train-clean-360,12.45,Rachel Gatwood,0.2075
+3638,F,train-clean-360,25.16,AmyG,0.41933333333333334
+3641,F,train-other-500,25.5,Joelle Peebles,0.425
+3645,F,train-clean-360,25.08,MaryAnn,0.418
+3647,F,train-other-500,30.24,Channe,0.504
+3650,M,train-other-500,23.18,Jonathan Ross,0.3863333333333333
+3654,M,train-clean-360,25.09,Mark Wilson,0.4181666666666667
+3656,M,train-other-500,30.26,Kai Lu,0.5043333333333334
+3657,M,train-other-500,30.03,Bellona Times,0.5005000000000001
+3660,M,dev-other,10.26,Russ Clough,0.17099999999999999
+3663,F,dev-other,10.13,ppezz,0.16883333333333334
+3664,M,train-clean-100,25.06,Barry Eads,0.41766666666666663
+3665,M,train-other-500,24.95,C.J. Casey,0.41583333333333333
+3675,F,train-other-500,26.63,Linda Ferguson,0.4438333333333333
+3679,F,train-other-500,20.97,veronasser,0.3495
+3681,F,train-other-500,30.09,Ann Boulais,0.5015
+3686,M,train-clean-360,25.07,Doug Delisle,0.41783333333333333
+3691,M,train-other-500,29.41,Hollis Hanover,0.4901666666666667
+3698,F,train-other-500,30.04,Nadine Eckert-Boulet,0.5006666666666667
+3699,M,train-clean-100,25.15,Bruce Pirie,0.41916666666666663
+3703,F,train-clean-360,25.06,Linda Andrus,0.41766666666666663
+3717,M,train-clean-360,25.09,Elliott Miller,0.4181666666666667
+3723,M,train-clean-100,25.07,Kevin Lavin,0.41783333333333333
+3728,F,train-clean-360,25.17,amycs,0.41950000000000004
+3729,F,test-clean,8.03,Heather Hogan,0.13383333333333333
+3733,F,train-clean-360,25.01,Melanie Schleeter McCalmont,0.41683333333333333
+3738,F,train-clean-360,25.01,Collee McKinnon,0.41683333333333333
+3744,M,train-other-500,28.62,Jonathan Burchard,0.47700000000000004
+3747,M,train-other-500,15.39,Keith Henige,0.2565
+3752,M,dev-clean,8.06,Mark Welch,0.13433333333333333
+3757,F,train-other-500,18.9,EmAllise,0.315
+3764,F,test-other,10.12,Gabrielle Lambrick,0.16866666666666666
+3779,F,train-other-500,30.11,Rachel Steely,0.5018333333333334
+3780,M,train-other-500,29.9,Pete,0.4983333333333333
+3781,F,train-clean-360,25.02,Celena Arter,0.417
+3783,M,train-other-500,16.3,TexasSteve,0.27166666666666667
+3790,F,train-clean-360,25.1,hpark,0.41833333333333333
+3792,M,train-clean-360,16.38,Brian Keith Barnes,0.27299999999999996
+3793,M,train-other-500,30.18,Nathan,0.503
+3796,M,train-other-500,26.72,Mario Pineda,0.4453333333333333
+3798,F,train-other-500,30.22,Bianca Kramer,0.5036666666666666
+3807,M,train-clean-100,22.31,Jesse Noar,0.3718333333333333
+3816,F,train-clean-360,25.05,Bev J Stevens,0.41750000000000004
+3819,M,train-other-500,30.04,StarrDog,0.5006666666666667
+3825,M,train-clean-360,17.6,Matt Wills,0.29333333333333333
+3830,M,train-clean-100,24.01,rymd80,0.40016666666666667
+3835,M,train-clean-360,18.92,M.White,0.31533333333333335
+3843,F,train-other-500,30.16,storm,0.5026666666666667
+3845,M,train-other-500,30.22,Ray Smith,0.5036666666666666
+3848,F,train-other-500,28.82,skoval,0.48033333333333333
+3851,F,train-clean-360,25.26,mbousquet,0.42100000000000004
+3852,F,train-clean-360,22.37,selniff,0.37283333333333335
+3853,F,dev-clean,8.05,M. Bertke,0.13416666666666668
+3857,M,train-clean-100,25.17,Epistomolus,0.41950000000000004
+3864,M,train-clean-360,24.2,Tom Watts,0.4033333333333333
+3866,M,train-clean-360,25.12,SilverG,0.4186666666666667
+3867,F,train-other-500,28.37,Roberta Carlisle,0.4728333333333333
+3869,M,train-clean-360,25.02,Timothy Pinkham,0.417
+3871,M,train-other-500,29.98,Figura,0.49966666666666665
+3876,F,train-clean-360,25.03,Frances Marcinkiewicz,0.4171666666666667
+3879,F,train-clean-100,25.1,Keneva,0.41833333333333333
+3885,F,train-other-500,24.69,Elli,0.41150000000000003
+3889,F,train-clean-360,25.07,Alina,0.41783333333333333
+3894,M,train-other-500,18.14,Indy Gosal,0.30233333333333334
+3895,M,train-other-500,13.98,porlob,0.233
+3896,M,train-other-500,30.23,Will Zufall,0.5038333333333334
+3905,F,train-clean-360,23.23,J. Rebecca Franklin,0.38716666666666666
+3906,F,train-other-500,30.04,tabithat,0.5006666666666667
+3909,F,train-other-500,30.03,Evelyn Clarke,0.5005000000000001
+3911,F,train-other-500,18.56,Joseph Couves,0.3093333333333333
+3912,M,train-other-500,30.18,Bob Neufeld,0.503
+3914,M,train-clean-360,25.22,Rob James,0.42033333333333334
+3915,F,dev-other,10.32,JenniferW,0.17200000000000001
+3922,F,train-clean-360,25.2,Ashley Candland,0.42
+3923,M,train-clean-360,25.1,Sean Michael Hogan,0.41833333333333333
+3925,F,train-other-500,14.78,Viglione,0.24633333333333332
+3926,F,train-other-500,29.85,Denise Lacey,0.4975
+3927,M,train-clean-360,25.16,Bob Stretch,0.41933333333333334
+3928,F,train-other-500,30.11,Marianne Coleman-Hipkins,0.5018333333333334
+3934,F,train-other-500,21.35,Lynne Carroll,0.35583333333333333
+3945,M,train-clean-360,22.57,Floyd Wilde,0.37616666666666665
+3947,F,train-clean-100,22.43,johnell,0.37383333333333335
+3955,M,train-other-500,24.95,Fredrik Karlsson,0.41583333333333333
+3959,M,train-other-500,30.24,rjhargrav,0.504
+3962,M,train-other-500,25.43,writerboyontour,0.42383333333333334
+3967,F,train-clean-360,21.86,Christine Dufour,0.36433333333333334
+3969,F,train-other-500,30.01,CM Slosson,0.5001666666666666
+3972,F,train-clean-360,25.07,Joy Easton,0.41783333333333333
+3977,M,train-clean-360,25.11,LivelyHive,0.4185
+3979,F,train-clean-360,25.14,Dale A. Bade,0.419
+3982,F,train-clean-100,25.07,Kate Adams,0.41783333333333333
+3983,F,train-clean-100,25.01,lavocedorata,0.41683333333333333
+3989,M,train-clean-360,25.06,Rayne,0.41766666666666663
+3990,F,train-other-500,28.44,Jessi,0.47400000000000003
+3992,F,train-other-500,30.24,perpetualdreamworld,0.504
+3994,F,train-clean-360,25.09,Miriam Esther Goldman,0.4181666666666667
+3997,F,test-other,10.31,Sophia Choi,0.17183333333333334
+4005,F,train-other-500,30.14,Jhiu,0.5023333333333333
+4009,F,train-other-500,29.26,Diana Majlinger,0.4876666666666667
+4010,M,train-clean-360,25.19,David Baldwin,0.41983333333333334
+4013,M,train-clean-360,25.14,Kevin Maxson,0.419
+4014,M,train-clean-100,25.2,Tom Clifton,0.42
+4015,M,train-other-500,30.01,JimOCR,0.5001666666666666
+4017,M,train-other-500,28.96,gsolgaard,0.4826666666666667
+4018,M,train-clean-100,25.17,Nicholas Clifford,0.41950000000000004
+4019,M,train-other-500,27.31,brrrrrr6,0.45516666666666666
+4020,M,train-other-500,17.91,Linda,0.2985
+4021,F,train-other-500,30.21,Linda Woods,0.5035000000000001
+4034,F,train-other-500,30.24,Sienna,0.504
+4039,M,train-clean-360,25.15,Shawn Craig Smith,0.41916666666666663
+4042,M,train-other-500,30.02,Ryan DeRamos,0.5003333333333333
+4044,F,train-clean-360,23.5,serenitylee,0.39166666666666666
+4051,F,train-clean-100,25.14,Liz Devens,0.419
+4054,M,train-clean-360,15.16,Ryan Gubele,0.25266666666666665
+4057,F,train-clean-360,25.26,RoseA,0.42100000000000004
+4059,M,train-other-500,29.84,Troy Bond,0.49733333333333335
+4063,F,train-other-500,16.23,Abigail Bartels,0.2705
+4064,F,train-clean-360,25.12,Margaret Espaillat,0.4186666666666667
+4071,F,train-clean-360,25.04,Nichelle von Lauder,0.41733333333333333
+4077,M,test-clean,8.14,Nathan Markham,0.13566666666666669
+4078,M,train-other-500,21.58,Richard Kilmer,0.35966666666666663
+4085,M,train-other-500,18.85,Paul P Miller,0.3141666666666667
+4088,F,train-clean-100,25.15,Blazin48,0.41916666666666663
+4090,F,train-other-500,25.53,madmouth,0.42550000000000004
+4098,F,train-clean-360,25.04,Rachell Lovett,0.41733333333333333
+4104,F,train-other-500,28.44,Linda Dodge,0.47400000000000003
+4108,M,train-clean-360,25.21,garymacf,0.4201666666666667
+4110,M,train-clean-360,25.18,Richard Ellwood,0.4196666666666667
+4111,F,train-clean-360,25.07,Rachel P.,0.41783333333333333
+4116,F,train-clean-360,25.06,Amy Benton,0.41766666666666663
+4122,M,train-other-500,29.44,Wendel Topper,0.4906666666666667
+4133,M,train-clean-360,24.12,BigStory,0.402
+4137,F,train-clean-100,24.92,Sarah LuAnn,0.4153333333333334
+4138,F,train-clean-360,21.69,daltongirl,0.36150000000000004
+4145,F,train-clean-360,25.2,Patti Cunningham,0.42
+4148,M,train-clean-360,25.18,David A. Moore.,0.4196666666666667
+4152,M,train-clean-360,25.18,Ata Khudayberdiev,0.4196666666666667
+4153,F,dev-other,10.01,Hilara,0.16683333333333333
+4156,F,train-other-500,30.03,Caroline Shapiro,0.5005000000000001
+4160,F,train-clean-100,25.09,Rosie,0.4181666666666667
+4161,M,train-other-500,20.59,Daniel Paashaus,0.3431666666666667
+4172,M,train-other-500,29.53,Graeme Dunlop,0.4921666666666667
+4174,F,train-other-500,30.01,Availle,0.5001666666666666
+4179,M,train-other-500,30.18,Robert Keiper,0.503
+4189,F,train-other-500,28.25,Megan Argo,0.4708333333333333
+4191,M,train-other-500,22.03,Grant Hurlock,0.3671666666666667
+4192,F,train-other-500,18.59,MaryModern,0.30983333333333335
+4193,M,train-other-500,30.23,Ethan Rampton,0.5038333333333334
+4195,F,train-clean-100,25.08,bj,0.418
+4196,M,train-other-500,30.09,Jim Clevenger,0.5015
+4198,M,test-other,10.14,Examinfo,0.169
+4205,M,train-other-500,22.17,psi_mon,0.36950000000000005
+4211,F,train-other-500,27.31,A. Knight,0.45516666666666666
+4214,F,train-clean-100,17.45,A. Janelle Risa,0.29083333333333333
+4216,F,train-other-500,30.02,Hannah Skoonberg,0.5003333333333333
+4217,M,train-other-500,30.06,Brendan Tannam,0.501
+4218,M,train-other-500,29.74,David Cole,0.49566666666666664
+4222,F,train-clean-360,25.22,msjodi777,0.42033333333333334
+4225,F,train-other-500,26.78,gmiteva,0.44633333333333336
+4226,M,train-clean-360,25.12,Jud Niven,0.4186666666666667
+4234,F,train-other-500,30.02,laineyben,0.5003333333333333
+4235,F,train-other-500,28.44,Haylayer Flaga,0.47400000000000003
+4236,M,train-clean-360,16.01,Nicholas Feulner,0.26683333333333337
+4238,F,train-clean-360,24.09,Chela,0.4015
+4243,M,train-clean-360,25.16,Ian Grae,0.41933333333333334
+4246,M,train-clean-360,15.61,JLaddJr,0.26016666666666666
+4257,M,train-clean-360,22.42,garbageman99,0.3736666666666667
+4260,F,train-clean-360,23.54,Clacas,0.3923333333333333
+4262,F,train-other-500,23.66,LoraBeth Davis,0.3943333333333333
+4263,F,train-other-500,29.88,Chelsea Baker,0.498
+4267,M,train-clean-100,25.14,Ric F,0.419
+4273,F,train-other-500,13.25,as101,0.22083333333333333
+4277,M,train-other-500,19.92,JohanG,0.332
+4278,M,train-clean-360,25.07,smhamon,0.41783333333333333
+4280,F,train-other-500,27.64,BB,0.46066666666666667
+4289,F,train-clean-360,22.49,Veronica Jenkins,0.3748333333333333
+4290,M,train-clean-360,25.01,Joshua Paul Johnson,0.41683333333333333
+4294,F,test-other,10.17,Jessamy Gloor,0.1695
+4295,M,train-other-500,30.17,Slawek,0.5028333333333334
+4297,F,train-clean-100,25.04,Tina Horning,0.41733333333333333
+4305,F,train-other-500,18.6,Aspergine,0.31
+4310,F,train-other-500,10.29,grace4him,0.17149999999999999
+4313,F,train-other-500,29.54,May Low,0.49233333333333335
+4321,F,train-other-500,30.03,Xenutia,0.5005000000000001
+4323,F,dev-other,10.02,BookAngel7,0.16699999999999998
+4327,F,train-other-500,30.01,brokenaltar,0.5001666666666666
+4331,F,train-clean-360,24.77,Barbara Clements,0.41283333333333333
+4335,M,train-clean-360,21.74,davidb,0.3623333333333333
+4340,F,train-clean-100,21.97,kiwafruit,0.36616666666666664
+4344,M,train-other-500,26.88,Tadhg,0.448
+4345,M,train-other-500,23.32,Richard Schipper,0.38866666666666666
+4350,M,test-other,10.12,willem,0.16866666666666666
+4352,F,train-other-500,29.82,Martina Hutchins,0.497
+4356,F,train-clean-360,25.07,Patricia Rutledge,0.41783333333333333
+4358,M,train-clean-360,25.11,Kim Stich,0.4185
+4362,F,train-clean-100,25.18,Michelle Montano,0.4196666666666667
+4363,F,train-clean-360,25.04,Emily Livingston,0.41733333333333333
+4379,M,train-other-500,30.01,Scott Dahlem,0.5001666666666666
+4381,F,train-clean-360,6.58,Denise Resnik,0.10966666666666666
+4396,F,train-other-500,30.07,Michael Wolf,0.5011666666666666
+4397,M,train-clean-100,25.06,John Dennison,0.41766666666666663
+4402,M,train-other-500,22.67,Christopher Sanner,0.37783333333333335
+4406,M,train-clean-100,25.12,Matthew Scott Surprenant,0.4186666666666667
+4407,M,train-other-500,21.73,Ted Drury,0.3621666666666667
+4411,F,train-other-500,27.13,Zarnaz,0.45216666666666666
+4415,F,train-other-500,12.54,Anita Fleming,0.209
+4420,M,train-other-500,23.18,Steve Lomas,0.3863333333333333
+4422,F,train-other-500,30.05,Kamna,0.5008333333333334
+4423,M,train-other-500,25.86,David Dwight,0.431
+4425,M,train-clean-360,17.73,Gary Coy,0.2955
+4427,F,train-clean-360,25.06,Lynne Handler,0.41766666666666663
+4428,M,train-other-500,20.43,Blueoyster101,0.34049999999999997
+4433,M,train-clean-360,12.83,Ken Sterry,0.21383333333333335
+4434,F,train-clean-360,25.03,Sarah Nuxoll,0.4171666666666667
+4438,M,train-clean-360,25.0,Greg W.,0.4166666666666667
+4441,M,train-clean-100,25.06,William Peck,0.41766666666666663
+4442,M,train-other-500,27.21,Pep,0.4535
+4443,F,train-other-500,30.09,THOVO,0.5015
+4446,F,test-clean,8.0,Jen Maxwell,0.13333333333333333
+4447,M,train-other-500,30.14,Cascades,0.5023333333333333
+4455,F,train-other-500,30.0,Patrick Wells,0.5
+4463,F,train-other-500,29.36,Cate Mackenzie,0.48933333333333334
+4474,M,train-other-500,28.95,John L. Clark,0.4825
+4480,M,train-other-500,30.03,Iskander Shafikov,0.5005000000000001
+4481,F,train-clean-100,22.56,margo zinberg,0.376
+4484,M,train-other-500,30.23,Phil Griffiths,0.5038333333333334
+4487,F,train-other-500,30.19,Nienke,0.5031666666666667
+4490,F,train-clean-360,25.01,Rachel Weaver,0.41683333333333333
+4492,F,train-other-500,30.11,P.Hynes,0.5018333333333334
+4495,M,train-clean-360,25.09,Dillon Stiles,0.4181666666666667
+4507,F,test-clean,8.05,Rachel Nelson-Smith,0.13416666666666668
+4511,F,train-other-500,25.81,Jeanie,0.43016666666666664
+4513,F,train-other-500,7.64,Gabi,0.12733333333333333
+4515,M,dev-other,10.0,Doug,0.16666666666666666
+4519,F,train-clean-360,22.04,Mimi Wang,0.36733333333333335
+4520,F,train-other-500,19.56,Dorlene Kaplan,0.32599999999999996
+4535,M,train-clean-360,24.62,Brett W. Downey,0.4103333333333333
+4545,M,train-other-500,30.01,SunshinePaul,0.5001666666666666
+4546,F,train-other-500,30.18,Estelle Jobson,0.503
+4549,F,train-other-500,26.71,Kristen Zaza,0.44516666666666665
+4563,F,train-other-500,28.02,Wiebke,0.46699999999999997
+4570,M,dev-other,10.1,Bill Mosley,0.16833333333333333
+4572,M,dev-other,10.28,om123,0.1713333333333333
+4576,F,train-other-500,30.22,Snaefaxi,0.5036666666666666
+4583,M,train-other-500,27.07,Jersey City Frankie,0.45116666666666666
+4586,M,train-clean-360,25.05,Chris Caron,0.41750000000000004
+4590,M,train-clean-360,25.22,Diapadion,0.42033333333333334
+4591,M,train-other-500,23.65,Robert White,0.39416666666666667
+4592,F,train-clean-360,25.08,WestWestest,0.418
+4594,M,train-other-500,28.76,mailman61953,0.47933333333333333
+4595,M,train-clean-360,25.13,Eric Leach,0.41883333333333334
+4598,F,train-clean-360,21.75,cher0520,0.3625
+4599,M,train-other-500,15.72,xibu,0.262
+4629,M,train-clean-360,25.21,Edward W. LaBonte,0.4201666666666667
+4640,F,train-clean-100,25.06,Karen Mason,0.41766666666666663
+4652,F,train-other-500,9.07,Savanna Herrold,0.15116666666666667
+4659,M,train-other-500,30.0,Stephen Marsh,0.5
+4660,F,train-other-500,30.12,SusieSA,0.502
+4667,F,train-other-500,28.29,Maria Therese,0.4715
+4680,F,train-clean-100,25.15,pachayes,0.41916666666666663
+4681,M,train-clean-360,19.11,Frank Adams,0.3185
+4687,M,train-other-500,30.13,mevans,0.5021666666666667
+4693,M,train-other-500,30.25,Robert Parker,0.5041666666666667
+4697,F,train-other-500,28.58,Jannie Meisberger,0.47633333333333333
+4699,M,train-other-500,10.43,Jason Justice,0.17383333333333334
+4701,M,train-other-500,30.11,CC,0.5018333333333334
+4703,F,train-other-500,24.21,HurstPP,0.4035
+4705,M,train-other-500,30.06,Algy Pug,0.501
+4706,F,train-other-500,28.48,SallyMc,0.4746666666666667
+4710,M,train-other-500,30.18,David Huston,0.503
+4712,F,train-other-500,26.18,Alisson Veldhuis,0.43633333333333335
+4719,M,train-clean-360,22.99,M. Craun,0.38316666666666666
+4731,F,train-clean-360,25.27,Becky Cook,0.42116666666666663
+4733,M,train-clean-360,19.08,dwegowy,0.31799999999999995
+4734,M,train-clean-360,17.07,Adib Masumian,0.28450000000000003
+4738,M,train-other-500,29.33,Leonard Wilson,0.4888333333333333
+4741,M,train-other-500,22.64,Nullifidian,0.37733333333333335
+4742,F,train-other-500,11.24,Little Tee,0.18733333333333332
+4744,F,train-clean-360,25.15,Amy Gramour,0.41916666666666663
+4748,M,train-other-500,30.15,Dirk Eichhorn,0.5025
+4750,M,train-other-500,30.12,Paul Huckerby,0.502
+4757,F,train-other-500,10.61,Grace Dobson,0.17683333333333331
+4766,F,train-other-500,19.73,Melanie,0.32883333333333337
+4767,M,train-other-500,19.26,Delysid,0.321
+4770,F,train-clean-360,20.5,Jeanne Luft,0.3416666666666667
+4771,M,train-other-500,21.91,scrawl,0.3651666666666667
+4773,F,train-other-500,30.04,Kathryn Lois,0.5006666666666667
+4779,F,train-other-500,30.0,Angel5,0.5
+4788,M,train-clean-100,25.04,Bill Boerst,0.41733333333333333
+4791,F,train-other-500,30.1,MelanieMae,0.5016666666666667
+4799,M,train-other-500,29.45,Matt Judd,0.49083333333333334
+4800,F,train-clean-360,25.14,Mary Herndon Bell,0.419
+4806,M,train-clean-360,16.25,Jason Ingolfsland,0.2708333333333333
+4807,F,train-clean-360,16.73,Fuzz,0.2788333333333333
+4813,M,train-clean-100,25.12,Steve Mattern,0.4186666666666667
+4821,M,train-other-500,17.35,Zachary Johnson,0.2891666666666667
+4824,F,train-other-500,30.14,meyerli,0.5023333333333333
+4830,M,train-clean-100,24.05,George Aalto,0.4008333333333333
+4831,F,dev-other,10.07,Lisa Meyers,0.16783333333333333
+4836,M,train-other-500,23.06,Preston Scrape,0.3843333333333333
+4837,F,train-clean-360,21.92,Sharon Kilmer,0.36533333333333334
+4839,F,train-clean-360,25.06,Julie K. Rose,0.41766666666666663
+4841,F,train-other-500,26.21,Haley Pereira,0.43683333333333335
+4846,F,train-clean-360,19.94,Kathrin Salazar,0.33233333333333337
+4848,M,train-clean-360,25.09,Dee Wykoff,0.4181666666666667
+4852,M,test-other,10.2,Arthur Piantadosi,0.16999999999999998
+4853,F,train-clean-100,25.04,Barbara Derksen,0.41733333333333333
+4854,M,train-clean-360,25.2,Doctor_wu,0.42
+4856,M,train-clean-360,25.04,Steven Seitel,0.41733333333333333
+4859,M,train-clean-100,20.37,nathank,0.3395
+4860,M,train-clean-360,20.58,Jonah Cummings,0.34299999999999997
+4863,M,train-other-500,30.16,I M CLIFFORD,0.5026666666666667
+4872,M,train-other-500,30.02,R E Faust,0.5003333333333333
+4894,M,train-other-500,20.97,Gary Dzierlenga,0.3495
+4898,M,train-clean-100,25.11,greatbasinrain,0.4185
+4899,F,train-clean-360,25.23,Theresa L. Downey,0.4205
+4910,F,train-other-500,21.56,Amanda Martin Sandino,0.35933333333333334
+4915,M,train-other-500,26.95,Andrew Bowles,0.44916666666666666
+4926,F,train-clean-360,25.21,browneyedgirl32382,0.4201666666666667
+4930,M,train-other-500,30.19,Adrian Levitsky,0.5031666666666667
+4931,M,train-other-500,18.71,KevS,0.31183333333333335
+4936,F,train-other-500,28.12,jedopi,0.4686666666666667
+4945,M,train-clean-360,25.07,Charles RUHE,0.41783333333333333
+4948,M,train-other-500,30.11,Tom Barron,0.5018333333333334
+4955,M,train-other-500,24.9,Elwood Mott,0.415
+4957,F,train-clean-360,25.06,P Moscato,0.41766666666666663
+4958,M,train-other-500,16.99,David P. Sroka,0.2831666666666666
+4959,F,train-other-500,21.22,Piper Hayes,0.35366666666666663
+4964,F,train-other-500,25.18,rashada,0.4196666666666667
+4965,F,train-other-500,27.43,Rachel Craig,0.45716666666666667
+4967,F,train-clean-360,25.02,Karen,0.417
+4969,M,train-other-500,30.07,Garth Burton,0.5011666666666666
+4970,F,test-clean,8.15,airandwaters,0.13583333333333333
+4973,M,train-clean-360,25.03,Michael Lipschultz,0.4171666666666667
+4979,M,train-other-500,22.72,Eric,0.37866666666666665
+4991,F,train-other-500,28.58,Jacqueline (Jacqui) Grady,0.47633333333333333
+4992,F,test-clean,8.21,Joyce Martin,0.13683333333333333
+4993,M,train-other-500,30.22,BillMac,0.5036666666666666
+5000,F,train-other-500,20.78,Anna-Lisa Ott,0.3463333333333333
+5002,M,train-clean-360,22.52,Brendan Stallard,0.37533333333333335
+5005,F,train-other-500,29.27,pinhsien,0.48783333333333334
+5007,F,train-clean-360,22.98,Kathleen Nelson,0.383
+5009,M,train-other-500,30.12,Michael Reuss,0.502
+5012,F,train-clean-360,25.06,Morgan Schlicker,0.41766666666666663
+5013,M,train-other-500,25.43,Joseph Dsouza,0.42383333333333334
+5019,F,train-other-500,29.72,Sandra Estenson,0.4953333333333333
+5022,F,train-clean-100,25.12,Kathleen Costa,0.4186666666666667
+5023,F,train-other-500,26.64,Elizabeth Zaranka,0.444
+5029,F,train-clean-360,25.02,Courtney Sandhu,0.417
+5036,F,train-other-500,27.42,NicolaRuth,0.457
+5038,M,train-other-500,30.14,John Kooz,0.5023333333333333
+5039,F,train-clean-360,25.1,Inga Parsons,0.41833333333333333
+5043,M,train-other-500,30.25,edbucks,0.5041666666666667
+5044,F,train-other-500,22.47,Andrea Keene,0.3745
+5045,F,train-other-500,30.24,Mounica,0.504
+5049,M,train-clean-100,25.08,Bradley Smith,0.418
+5054,F,train-clean-360,25.13,Denice Stradling,0.41883333333333334
+5060,F,train-other-500,30.03,Linda Moreau,0.5005000000000001
+5062,F,train-clean-360,25.09,E Ogston,0.4181666666666667
+5063,F,train-clean-360,7.96,susanfrom,0.13266666666666665
+5076,M,train-other-500,30.19,Jules Hawryluk,0.5031666666666667
+5077,F,train-other-500,30.05,Sandra G,0.5008333333333334
+5082,F,train-other-500,30.11,SummerWind,0.5018333333333334
+5092,M,train-clean-360,25.24,Josh Smith,0.42066666666666663
+5093,F,train-clean-360,25.23,Nicole Kay,0.4205
+5101,F,train-other-500,23.83,E.Lee,0.3971666666666666
+5104,M,train-clean-100,25.03,Chuck Burke,0.4171666666666667
+5105,M,test-clean,8.12,elongman,0.13533333333333333
+5115,F,train-clean-360,25.01,Terry Goodyer,0.41683333333333333
+5118,M,train-other-500,30.13,klbonds,0.5021666666666667
+5123,M,train-clean-360,25.11,wvthcomp,0.4185
+5126,M,train-clean-360,25.06,Tom Lennon,0.41766666666666663
+5132,M,train-other-500,25.62,David Stryker,0.427
+5133,F,train-clean-360,25.04,Jo Karabasz,0.41733333333333333
+5136,F,train-other-500,30.21,Felicity C,0.5035000000000001
+5139,F,train-clean-360,25.16,Katine,0.41933333333333334
+5141,M,train-other-500,30.17,David Goldfarb,0.5028333333333334
+5142,F,test-clean,8.07,Mary Ballard-Johansson,0.1345
+5147,M,train-clean-360,25.04,Cody2,0.41733333333333333
+5152,M,train-other-500,30.02,Liam Neely,0.5003333333333333
+5154,F,train-clean-360,22.28,Danarra,0.37133333333333335
+5157,M,train-clean-360,25.25,drewmac,0.42083333333333334
+5163,F,train-clean-100,23.57,LilyAnne,0.3928333333333333
+5164,F,train-other-500,30.09,Vsilverlining,0.5015
+5172,M,train-other-500,15.94,Equilibrium33,0.26566666666666666
+5181,M,train-other-500,28.26,Joel Nisbet,0.47100000000000003
+5183,M,train-other-500,30.09,Kenneth Sergeant Gaghan,0.5015
+5185,M,train-other-500,27.52,okei,0.45866666666666667
+5186,M,train-clean-360,25.0,Brendan Brown,0.4166666666666667
+5189,M,train-clean-360,25.25,Samanem,0.42083333333333334
+5190,M,train-clean-360,25.15,Rom Maczka,0.41916666666666663
+5192,M,train-clean-100,24.14,Jason Esteves,0.4023333333333333
+5198,M,train-other-500,25.89,Brian,0.4315
+5199,F,train-other-500,21.67,Diana Fast,0.3611666666666667
+5206,M,train-clean-360,25.07,Simon Dexter,0.41783333333333333
+5217,F,train-other-500,4.25,Anqi Wang,0.07083333333333333
+5220,F,train-other-500,30.03,Mary Schneider,0.5005000000000001
+5224,M,train-other-500,29.58,Matt Soar,0.493
+5230,F,train-other-500,26.89,Aubrey Anne,0.44816666666666666
+5233,F,train-other-500,17.95,summerdaze,0.29916666666666664
+5239,M,train-clean-360,25.05,compozr,0.41750000000000004
+5242,M,train-clean-360,22.52,Michael Monhollon,0.37533333333333335
+5244,F,train-other-500,29.49,Carolin Ksr,0.4915
+5245,M,train-other-500,26.36,Dymmesdale,0.4393333333333333
+5246,M,train-clean-360,22.77,Mike Bloomfield,0.3795
+5248,M,train-other-500,30.23,Don Stirno,0.5038333333333334
+5252,M,train-other-500,30.14,Michael Deng,0.5023333333333333
+5261,M,train-clean-360,25.14,Ali Kazerani,0.419
+5266,F,train-clean-360,23.87,Jill,0.39783333333333337
+5269,F,train-other-500,4.84,Elizabeth Barr,0.08066666666666666
+5271,F,train-other-500,24.92,Amanda,0.4153333333333334
+5278,M,train-other-500,29.66,Mike Harris,0.49433333333333335
+5280,M,train-other-500,30.05,penboy7000,0.5008333333333334
+5285,F,train-other-500,30.07,Sweetlilbirdy,0.5011666666666666
+5287,F,train-other-500,23.96,adsum iam,0.3993333333333334
+5290,F,train-clean-360,25.04,Natalie,0.41733333333333333
+5293,M,train-clean-360,21.97,Ned Troxel,0.36616666666666664
+5296,F,train-other-500,22.97,Joselyn Hasty,0.3828333333333333
+5299,F,train-other-500,28.69,Becky Doughty,0.4781666666666667
+5304,M,train-clean-360,21.08,Don W. Jenkins,0.35133333333333333
+5319,M,train-clean-360,25.13,Guero,0.41883333333333334
+5321,M,train-other-500,29.97,Adam Whybray,0.4995
+5322,M,train-clean-100,25.03,Jay Bidal,0.4171666666666667
+5325,M,train-other-500,18.83,Rory Lawton,0.3138333333333333
+5328,M,train-other-500,28.14,Nathan Jordan,0.46900000000000003
+5333,M,train-clean-360,25.07,Robert Fletcher,0.41783333333333333
+5337,F,train-clean-360,23.43,Danielle,0.3905
+5338,F,dev-clean,8.07,S R Colon,0.1345
+5339,F,train-clean-100,25.13,Lauren McCullough,0.41883333333333334
+5340,F,train-other-500,24.25,Mary-Beth Blackburn,0.4041666666666667
+5350,F,train-other-500,29.53,Cath Garde,0.4921666666666667
+5355,F,train-other-500,30.17,Carrie Heyes,0.5028333333333334
+5361,F,train-other-500,28.03,scarlettraces,0.4671666666666667
+5375,F,train-other-500,28.35,BumbleVee,0.47250000000000003
+5379,M,train-other-500,24.72,lennich,0.412
+5386,M,train-clean-360,25.16,Tim Ferreira,0.41933333333333334
+5389,M,train-clean-360,25.03,Joseph Lawler,0.4171666666666667
+5390,M,train-clean-100,25.2,Charles Bice,0.42
+5393,F,train-clean-100,25.22,Amy Hengst,0.42033333333333334
+5400,F,train-clean-360,25.25,Natalie Sullivan,0.42083333333333334
+5401,M,train-clean-360,25.2,Andrew Nelson,0.42
+5405,F,train-other-500,30.08,Anka,0.5013333333333333
+5412,F,train-other-500,12.44,tommybascue,0.20733333333333331
+5424,F,train-other-500,30.04,Julia Niedermaier,0.5006666666666667
+5429,M,train-other-500,25.06,Dennis Lane Pretoria,0.41766666666666663
+5439,F,train-other-500,30.06,Laine S.,0.501
+5442,F,test-other,10.11,oneiros81,0.16849999999999998
+5445,F,train-other-500,30.07,Liz DeLassus,0.5011666666666666
+5448,M,train-clean-360,20.4,Bryan Reid,0.33999999999999997
+5456,M,train-clean-100,19.77,e_scarab,0.3295
+5459,M,train-other-500,16.04,bryan.peterson,0.2673333333333333
+5460,M,train-other-500,28.84,Max Lindberg,0.4806666666666667
+5463,M,train-clean-100,25.0,GLM,0.4166666666666667
+5468,F,train-other-500,30.12,ashleighjane,0.502
+5471,F,train-other-500,27.22,ElleyKat,0.45366666666666666
+5480,F,train-other-500,30.01,ESFJ Girl,0.5001666666666666
+5484,F,test-other,10.11,Nastassia,0.16849999999999998
+5487,F,train-other-500,28.4,Michaela O'Connor,0.47333333333333333
+5489,F,train-clean-360,22.21,LizMourant,0.3701666666666667
+5506,M,train-other-500,29.8,Frank Booker,0.4966666666666667
+5513,M,train-clean-360,23.93,David Callahan,0.3988333333333333
+5514,F,train-clean-100,17.39,Ella Jane Quentin,0.28983333333333333
+5519,M,train-clean-360,23.06,scoutman77,0.3843333333333333
+5536,M,dev-clean,8.13,David Mix,0.1355
+5538,F,train-clean-360,25.06,Linda Velwest,0.41766666666666663
+5543,F,dev-other,10.07,Anya,0.16783333333333333
+5545,M,train-other-500,30.04,Gary Olman,0.5006666666666667
+5561,F,train-clean-100,23.86,Ellen Jones,0.39766666666666667
+5565,M,train-other-500,17.18,Ken Padgitt,0.28633333333333333
+5567,M,train-other-500,17.5,BStapley,0.2916666666666667
+5569,F,train-other-500,17.39,Beth Hitesman,0.28983333333333333
+5570,F,train-clean-360,25.05,Corinna Schultz,0.41750000000000004
+5583,F,train-clean-360,25.25,Claudia Wilson,0.42083333333333334
+5588,F,train-clean-360,25.09,Gail Timmerman Vaughan,0.4181666666666667
+5604,F,train-clean-360,25.05,kittyandcheese,0.41750000000000004
+5606,F,train-clean-360,25.11,PrincessG,0.4185
+5618,F,train-clean-360,25.07,Shirleyroses,0.41783333333333333
+5620,M,train-other-500,16.4,jerryB,0.2733333333333333
+5622,F,train-clean-360,25.15,Roseanne Schmidt,0.41916666666666663
+5628,M,train-other-500,30.02,Adrian Wheal,0.5003333333333333
+5635,M,train-clean-360,25.07,Matthew Reece,0.41783333333333333
+5636,F,train-other-500,30.17,Joyce Couch,0.5028333333333334
+5637,M,train-clean-360,17.23,Anthony,0.2871666666666667
+5639,M,test-clean,8.28,Ulf Bjorklund,0.13799999999999998
+5641,M,train-other-500,27.47,Gerald Peter Morgan,0.4578333333333333
+5649,F,train-other-500,30.08,hazelra,0.5013333333333333
+5652,F,train-clean-100,25.05,amicrazy2u,0.41750000000000004
+5653,F,train-other-500,30.06,Kimberly Anderson,0.501
+5655,F,train-clean-360,25.14,Christine Rodriguez,0.419
+5656,M,train-clean-360,25.17,Joe Mabry,0.41950000000000004
+5660,F,train-clean-360,25.17,hollz,0.41950000000000004
+5661,F,train-other-500,30.04,Dianne Lanning,0.5006666666666667
+5665,F,train-other-500,26.45,Lynda Sizemore,0.4408333333333333
+5671,F,train-other-500,30.11,Trihypoo,0.5018333333333334
+5672,M,train-clean-360,25.21,Jacob Paul Starr,0.4201666666666667
+5678,M,train-clean-100,25.1,jgoffena,0.41833333333333333
+5682,F,train-other-500,30.15,Lmwong,0.5025
+5683,F,test-clean,8.01,Rachael Lapidis,0.1335
+5684,F,train-clean-360,22.39,Elsa Youngsteadt,0.3731666666666667
+5688,F,train-clean-100,25.17,Jennifer Dionne,0.41950000000000004
+5694,M,dev-clean,8.01,Winston Tharp,0.1335
+5700,M,train-other-500,30.13,Paul Adams,0.5021666666666667
+5703,M,train-clean-100,25.1,Garth Comira,0.41833333333333333
+5712,F,train-clean-360,25.06,Alexandra Huckabay,0.41766666666666663
+5717,M,train-clean-360,25.14,Phil Chenevert,0.419
+5719,M,train-other-500,27.22,John Fricker,0.45366666666666666
+5720,F,train-other-500,30.12,Thelma Meyer,0.502
+5723,F,train-clean-360,25.24,Linda Hogan,0.42066666666666663
+5724,F,train-clean-360,25.01,paintgirl,0.41683333333333333
+5725,F,train-other-500,26.86,doublemirrors,0.44766666666666666
+5727,M,train-clean-360,25.25,JDavidMoore,0.42083333333333334
+5731,F,train-clean-360,25.14,Andrea Boltz,0.419
+5733,F,train-other-500,30.22,Spinhop,0.5036666666666666
+5735,F,train-other-500,11.45,Filipa,0.19083333333333333
+5740,F,train-clean-360,25.22,Alisa,0.42033333333333334
+5746,M,train-clean-360,25.08,DL Pead,0.418
+5750,M,train-clean-100,25.08,laurencetrask,0.418
+5756,F,train-other-500,25.36,Mich_elle,0.42266666666666663
+5764,M,test-other,10.06,Herman Roskams,0.16766666666666669
+5765,M,train-other-500,30.2,A. J. Carroll,0.5033333333333333
+5767,M,train-clean-360,17.85,taijohn,0.29750000000000004
+5772,M,train-other-500,30.06,jessecoy,0.501
+5776,M,train-clean-360,17.71,Chris Pauley,0.2951666666666667
+5778,F,train-clean-100,21.81,Laura Victoria,0.3635
+5781,M,train-other-500,30.14,Parrot17,0.5023333333333333
+5784,M,train-other-500,30.01,Chris Donnelly,0.5001666666666666
+5789,F,train-clean-100,25.16,Kirsten Wever,0.41933333333333334
+5791,M,train-other-500,30.15,croudy,0.5025
+5796,F,train-other-500,30.15,Linette Geisel,0.5025
+5802,M,train-clean-360,25.22,Christopher Maust,0.42033333333333334
+5808,M,train-clean-100,25.16,jeandelfrio,0.41933333333333334
+5809,F,train-clean-360,25.25,kattekliek,0.42083333333333334
+5810,M,train-clean-360,25.02,Patrick Reinhart,0.417
+5825,F,train-other-500,30.25,Vira Denton,0.5041666666666667
+5826,M,train-other-500,30.12,Phineas Redux,0.502
+5831,F,train-other-500,30.2,Kirsty Leishman,0.5033333333333333
+5837,F,train-other-500,24.19,Debbie Pieterse,0.4031666666666667
+5840,M,train-other-500,20.88,Dick Summerfield,0.348
+5849,F,dev-other,10.0,ashleyspence,0.16666666666666666
+5854,M,train-other-500,21.7,Gabriel Glenn,0.36166666666666664
+5860,F,train-other-500,27.18,J L Raimundo,0.453
+5867,F,train-clean-100,23.63,Sharon Omi,0.3938333333333333
+5868,M,train-clean-360,25.06,alwpoe,0.41766666666666663
+5874,M,train-other-500,29.88,Paul Andrews,0.498
+5876,F,train-clean-360,25.15,kelleywyskiel,0.41916666666666663
+5883,M,train-clean-360,25.03,Jerry Romero,0.4171666666666667
+5886,M,train-other-500,20.49,Simon Brown,0.34149999999999997
+5890,F,train-other-500,16.91,GabrielleC,0.2818333333333333
+5893,F,train-other-500,30.12,Elizabeth Fiedler,0.502
+5894,M,train-other-500,30.01,Paul Stephens,0.5001666666666666
+5895,F,dev-clean,8.02,iamartin,0.13366666666666666
+5906,F,train-other-500,29.04,Lily-LLM,0.484
+5909,M,train-clean-360,25.14,Mark Mickelson,0.419
+5910,M,train-other-500,18.31,Anthony Lee,0.30516666666666664
+5911,M,train-other-500,30.14,Paul C. Newman,0.5023333333333333
+5913,M,train-other-500,30.24,dmbrought,0.504
+5914,M,train-clean-360,25.14,bobbybrill,0.419
+5918,M,train-clean-360,25.2,Mike Wajda,0.42
+5929,F,train-other-500,27.51,Gryphon Perkins,0.4585
+5933,M,train-other-500,27.99,Barry O'Neill,0.46649999999999997
+5935,M,train-clean-360,25.07,Mike Okonek,0.41783333333333333
+5940,M,train-clean-360,25.06,Gargoyle,0.41766666666666663
+5949,F,train-other-500,28.22,debolee,0.4703333333333333
+5951,M,train-other-500,25.81,Stevan Simmons,0.43016666666666664
+5952,F,train-other-500,29.66,sherlock85,0.49433333333333335
+5968,F,train-clean-360,25.05,Cate Barratt,0.41750000000000004
+5970,M,train-other-500,27.77,Larry Degala,0.4628333333333333
+5975,M,train-clean-360,25.12,Tony Maxey,0.4186666666666667
+5977,M,train-other-500,30.18,Ken Felt,0.503
+5979,M,train-other-500,30.12,Pentti Hirvonen,0.502
+5980,F,train-other-500,17.12,Nichole Thompson,0.2853333333333333
+5983,F,train-other-500,30.15,Katew,0.5025
+5984,F,train-clean-360,25.06,sbburke,0.41766666666666663
+5985,M,train-clean-360,25.01,James K. White,0.41683333333333333
+5993,M,train-other-500,30.18,garyday,0.503
+6000,F,train-clean-100,18.04,MissRose,0.30066666666666664
+6003,M,train-other-500,9.91,sparks0314,0.16516666666666666
+6006,F,train-clean-360,25.16,Stephanie Lee,0.41933333333333334
+6009,M,train-other-500,30.01,AVG,0.5001666666666666
+6010,M,train-other-500,30.17,Ralph Kerwin,0.5028333333333334
+6014,F,train-clean-360,25.09,Tina Nuzzi,0.4181666666666667
+6019,M,train-clean-100,25.17,DerekP,0.41950000000000004
+6025,F,train-other-500,29.77,Lonelle Yoder,0.49616666666666664
+6030,F,train-other-500,30.0,Shiromi,0.5
+6032,F,train-clean-360,25.14,Beverly Scott,0.419
+6035,M,train-other-500,29.45,Marty Kris,0.49083333333333334
+6037,M,train-clean-360,8.12,bish,0.13533333333333333
+6038,F,train-clean-360,25.17,Sirmelja,0.41950000000000004
+6051,M,train-other-500,24.29,Ric Cornwall,0.4048333333333333
+6054,F,train-clean-360,18.24,Leslie Stevens Suhy,0.304
+6060,M,train-clean-360,22.81,Jonathan Lange,0.38016666666666665
+6064,F,train-clean-100,25.04,Deborah Knight,0.41733333333333333
+6065,M,train-other-500,24.49,David Olson,0.4081666666666666
+6070,F,test-other,10.01,Saab,0.16683333333333333
+6072,F,train-other-500,24.62,CrowGirl,0.4103333333333333
+6075,M,train-clean-360,25.08,Rob Smith,0.418
+6076,M,train-other-500,30.03,Saethram,0.5005000000000001
+6077,M,train-other-500,30.25,Steve Belleguelle,0.5041666666666667
+6078,F,train-clean-100,25.02,dobsonfly,0.417
+6080,M,train-clean-360,25.18,progressingamerica,0.4196666666666667
+6081,M,train-clean-100,25.1,Lazuli,0.41833333333333333
+6082,F,train-clean-360,25.06,EyeBones,0.41766666666666663
+6084,M,train-other-500,22.16,Amallen,0.36933333333333335
+6087,F,train-other-500,27.9,Caroline Driggs,0.46499999999999997
+6088,F,train-other-500,30.12,burk,0.502
+6097,M,train-other-500,30.12,Phil Benson,0.502
+6098,M,train-clean-360,25.07,Kancamagus,0.41783333333333333
+6099,F,train-clean-360,25.17,Cheri Gardner,0.41950000000000004
+6102,F,train-other-500,15.61,Rachel Bossier,0.26016666666666666
+6104,F,train-clean-360,25.15,Juliana M.,0.41916666666666663
+6106,F,train-other-500,23.92,Ruth Kidson,0.39866666666666667
+6111,F,train-other-500,30.14,Jill Preston,0.5023333333333333
+6115,M,train-clean-360,25.1,MitchHerd,0.41833333333333333
+6119,M,train-clean-360,18.01,Vinnie Tesla,0.3001666666666667
+6120,F,train-clean-360,24.31,Terra Mendoza,0.4051666666666666
+6121,F,train-other-500,30.1,Imagine,0.5016666666666667
+6123,F,dev-other,10.06,chocmuse,0.16766666666666669
+6126,M,train-other-500,19.22,David Abbott,0.3203333333333333
+6127,F,train-other-500,30.2,Andee,0.5033333333333333
+6128,F,test-other,10.13,Isabelle Brasme,0.16883333333333334
+6131,F,train-other-500,21.84,Malane,0.364
+6135,F,train-other-500,22.88,Spike Holcomb,0.3813333333333333
+6138,F,train-other-500,30.09,Deborah Brabyn,0.5015
+6139,F,train-clean-360,25.08,Lois C. Johnson,0.418
+6145,F,train-other-500,30.07,Madeleine Brook,0.5011666666666666
+6147,F,train-clean-100,25.05,Liberty Stump,0.41750000000000004
+6153,F,train-other-500,30.16,anjieliu,0.5026666666666667
+6157,M,train-clean-360,22.97,HotConflict,0.3828333333333333
+6159,M,train-other-500,26.45,Ted Garvin,0.4408333333333333
+6160,F,train-clean-360,17.76,FaithR,0.29600000000000004
+6167,F,train-clean-360,25.08,Janet,0.418
+6173,F,train-other-500,30.14,Carol Box,0.5023333333333333
+6177,M,train-other-500,30.02,wminbru,0.5003333333333333
+6178,F,train-other-500,21.18,alegriavida,0.353
+6181,M,train-clean-100,25.09,Mike,0.4181666666666667
+6184,M,train-other-500,23.82,Adam Tomkins,0.397
+6188,F,train-clean-360,22.61,Roxanna Nazari,0.3768333333333333
+6189,F,train-clean-360,23.67,Shana Cohen,0.3945
+6196,M,train-other-500,11.75,Martin Gradwell,0.19583333333333333
+6199,M,train-other-500,30.08,bobolink,0.5013333333333333
+6206,F,train-clean-360,25.12,Yvonne Smith,0.4186666666666667
+6209,M,train-clean-100,25.04,deckerteach,0.41733333333333333
+6211,F,train-other-500,30.18,Caeliveres,0.503
+6215,F,train-clean-360,25.08,Janet248,0.418
+6221,M,train-other-500,22.84,pwu909,0.38066666666666665
+6224,M,train-other-500,30.16,dave k,0.5026666666666667
+6227,F,train-other-500,30.05,EliMarieHK,0.5008333333333334
+6232,M,train-other-500,18.47,Paul Denton,0.3078333333333333
+6233,F,train-clean-360,25.24,Gen Jones,0.42066666666666663
+6235,F,train-clean-360,21.98,ReadWriteLib,0.36633333333333334
+6236,M,train-other-500,29.03,jcwyatt,0.48383333333333334
+6241,M,dev-clean,8.05,badey,0.13416666666666668
+6242,F,train-other-500,26.65,Lucinda Gainey,0.44416666666666665
+6248,M,train-other-500,30.24,Kevin Green,0.504
+6249,M,train-other-500,20.45,Thomas A. Copeland,0.3408333333333333
+6251,F,train-other-500,30.03,Theresa Sheridan,0.5005000000000001
+6254,F,train-other-500,19.26,Chelsea S.,0.321
+6258,M,train-clean-360,20.49,haggisreflux,0.34149999999999997
+6267,M,dev-other,10.06,Cata,0.16766666666666669
+6269,M,train-clean-360,25.13,Don Halpert,0.41883333333333334
+6272,F,train-clean-100,25.14,jlenardon,0.419
+6276,M,train-other-500,30.17,dan_h,0.5028333333333334
+6281,F,train-other-500,16.33,Beth Thomas,0.2721666666666666
+6284,F,train-other-500,17.71,cklee,0.2951666666666667
+6286,F,train-clean-360,25.01,Wendy Almeida,0.41683333333333333
+6288,F,train-clean-360,25.07,Sunni West,0.41783333333333333
+6294,M,train-clean-360,24.1,humanode,0.40166666666666667
+6295,M,dev-clean,8.04,Michael Packard,0.13399999999999998
+6300,F,train-clean-360,25.07,Sarah Crampton,0.41783333333333333
+6308,F,train-clean-360,23.36,Easton,0.3893333333333333
+6311,M,train-other-500,21.53,TRUEBRIT,0.35883333333333334
+6313,F,dev-clean,8.17,Jennifer Wiginton,0.13616666666666666
+6317,F,train-clean-360,25.2,Sarah K,0.42
+6319,F,dev-clean,8.01,thestorygirl,0.1335
+6323,M,train-other-500,18.48,Caluminium,0.308
+6324,F,train-other-500,7.4,Barbara E. McCarthy,0.12333333333333334
+6330,M,train-clean-360,25.04,David Cummings,0.41733333333333333
+6332,F,train-other-500,18.5,Kelli England,0.30833333333333335
+6333,M,train-other-500,29.43,Max Korlinge,0.4905
+6339,F,train-clean-360,25.13,Michelle Remington,0.41883333333333334
+6341,F,train-clean-360,23.72,Tiffany J. Kim,0.3953333333333333
+6345,F,dev-clean,8.07,Jean Bascom,0.1345
+6346,M,train-other-500,13.65,Matthew Pagan,0.2275
+6351,F,train-other-500,24.51,C. L. W. Rollins,0.40850000000000003
+6352,F,train-clean-360,22.96,stmacduff,0.38266666666666665
+6353,F,train-other-500,30.2,Jennifer Randall,0.5033333333333333
+6356,M,train-other-500,30.03,John O,0.5005000000000001
+6358,F,train-other-500,30.24,selway,0.504
+6359,F,train-clean-360,18.27,Susan Hanfield,0.3045
+6364,M,train-other-500,30.02,Todd Ulbrich,0.5003333333333333
+6367,M,train-clean-100,25.04,Vince Dee,0.41733333333333333
+6368,M,train-other-500,18.2,Marc Pizzuti,0.30333333333333334
+6370,M,train-other-500,29.53,Dan Craig,0.4921666666666667
+6371,F,train-clean-360,21.3,Rebecca King,0.35500000000000004
+6373,F,train-clean-360,25.2,Sandie Guenther,0.42
+6377,M,train-other-500,30.03,Maxim Babich,0.5005000000000001
+6378,F,train-clean-360,23.17,Michelle Day,0.3861666666666667
+6385,F,train-clean-100,25.09,Novella Serena,0.4181666666666667
+6388,F,train-clean-360,23.04,Leda,0.384
+6391,F,train-other-500,15.17,polkadotish,0.25283333333333335
+6395,M,train-clean-360,25.06,Richard Carpenter,0.41766666666666663
+6399,M,train-other-500,29.43,Edmund Bloxam,0.4905
+6402,M,train-other-500,29.38,Chiquito Crasto,0.48966666666666664
+6406,F,train-clean-360,21.92,Abigail Rasmussen,0.36533333333333334
+6407,M,train-other-500,30.06,AdamH,0.501
+6411,F,train-other-500,18.23,Feyaza,0.30383333333333334
+6415,F,train-clean-100,25.18,Daryl Wor,0.4196666666666667
+6418,M,train-other-500,30.02,Iolo Jones,0.5003333333333333
+6426,F,train-clean-360,25.14,Pat Redstone,0.419
+6432,M,test-other,10.02,Ditchdog,0.16699999999999998
+6436,M,train-other-500,28.84,Steve Mattingly,0.4806666666666667
+6437,M,train-clean-100,25.09,John Hoerr,0.4181666666666667
+6446,M,train-clean-360,25.11,Bob Gonzalez,0.4185
+6454,M,train-clean-100,25.22,David Wales,0.42033333333333334
+6455,F,dev-other,7.14,Betty Chen,0.119
+6458,M,train-clean-360,25.05,Dennis Blake,0.41750000000000004
+6459,M,train-other-500,26.29,Nigel Boydell,0.43816666666666665
+6467,M,dev-other,10.04,sid,0.1673333333333333
+6476,F,train-clean-100,25.17,Viridian,0.41950000000000004
+6482,M,train-other-500,27.01,Delmar H Dolbier,0.4501666666666667
+6484,F,train-other-500,29.16,ilianthe,0.486
+6488,F,train-other-500,19.83,Kendall Ashyby,0.33049999999999996
+6492,M,train-clean-360,22.75,Hugh Gillis,0.37916666666666665
+6494,M,train-clean-360,25.15,Morey Kunin,0.41916666666666663
+6497,M,train-clean-360,25.04,James E. Carson,0.41733333333333333
+6499,M,train-clean-360,25.19,dave7,0.41983333333333334
+6505,F,train-clean-360,25.0,Elena,0.4166666666666667
+6506,M,train-other-500,23.36,Tim Quinn,0.3893333333333333
+6509,F,train-clean-360,25.22,Marianna Foos,0.42033333333333334
+6510,M,train-clean-360,25.05,JimD,0.41750000000000004
+6512,M,train-other-500,30.26,mcgovern1934,0.5043333333333334
+6513,F,train-other-500,30.12,Susan de Raadt,0.502
+6518,F,train-clean-360,25.05,Wayfarer,0.41750000000000004
+6519,F,train-clean-360,25.23,Monica Knuppe,0.4205
+6529,M,train-clean-100,25.04,Fred DeBerardinis,0.41733333333333333
+6531,F,train-clean-100,21.46,janesandberg,0.3576666666666667
+6533,M,train-other-500,26.88,drewmore,0.448
+6534,F,train-other-500,30.0,Helen Falconer,0.5
+6535,M,train-other-500,13.21,Ron Altman,0.22016666666666668
+6538,M,train-clean-360,25.19,Juan Federico,0.41983333333333334
+6539,M,train-other-500,29.19,David W. Wolfe,0.48650000000000004
+6540,M,train-other-500,28.77,Craig Gulliver,0.4795
+6544,F,train-clean-360,25.22,Amanda Friday,0.42033333333333334
+6548,F,train-other-500,27.26,Kristin Gjerlw,0.45433333333333337
+6549,F,train-other-500,28.81,Sandra Luna,0.48016666666666663
+6550,M,train-clean-360,25.07,elfpen,0.41783333333333333
+6553,M,train-clean-360,25.18,DublinGothic,0.4196666666666667
+6555,M,train-clean-360,25.02,Alexandre Laplante,0.417
+6557,F,train-other-500,27.34,Tika Sabu,0.45566666666666666
+6563,M,train-clean-100,21.58,William Tomcho,0.35966666666666663
+6567,F,train-clean-360,25.05,vikvenom,0.41750000000000004
+6568,F,train-other-500,28.93,Heather Hamtil,0.4821666666666667
+6574,M,train-clean-360,25.02,Caden Vaughn Clegg,0.417
+6575,M,train-clean-360,24.07,Patrick Painter,0.40116666666666667
+6583,F,train-other-500,30.12,NastassiaS,0.502
+6590,F,train-other-500,30.01,Marea Brook,0.5001666666666666
+6594,F,train-other-500,30.08,Amelia Chantarotwong,0.5013333333333333
+6599,M,dev-other,3.03,rohde,0.050499999999999996
+6609,M,train-other-500,29.53,Patrick Wallace,0.4921666666666667
+6610,F,train-other-500,30.07,sylly,0.5011666666666666
+6614,F,train-other-500,28.25,Veronica Schlette,0.4708333333333333
+6620,F,train-clean-360,12.88,Amy Koenig,0.21466666666666667
+6625,M,train-other-500,30.1,hearmeout7,0.5016666666666667
+6627,F,train-other-500,14.57,Amber Hamilton,0.24283333333333335
+6636,M,train-other-500,27.5,Philip Martin,0.4583333333333333
+6637,F,train-clean-360,25.21,Christine Nendza,0.4201666666666667
+6641,F,train-other-500,29.93,Julienne,0.49883333333333335
+6643,F,train-clean-360,25.14,cbooren,0.419
+6652,M,train-other-500,25.43,Brendon Wright,0.42383333333333334
+6660,F,train-other-500,30.19,Nicole Lee,0.5031666666666667
+6668,M,train-other-500,30.01,Ecological Humanist,0.5001666666666666
+6670,M,train-other-500,29.92,Mike Pelton,0.4986666666666667
+6673,F,train-clean-360,20.46,Jenna Lanman,0.341
+6674,M,train-other-500,28.55,jimmylee,0.47583333333333333
+6676,F,train-other-500,27.67,Chill28,0.46116666666666667
+6683,F,train-clean-360,25.22,Julia Kelley,0.42033333333333334
+6685,M,train-other-500,23.76,Jonathan Drury,0.396
+6686,M,train-clean-360,20.63,Elin,0.3438333333333333
+6687,M,train-other-500,27.69,KirksVoice,0.4615
+6689,F,train-other-500,28.36,Tiffany Halla Colonna,0.4726666666666667
+6690,M,train-clean-360,23.34,T Michael Burke,0.389
+6694,M,train-clean-360,25.02,Ross Williamson,0.417
+6695,F,train-other-500,28.66,Linda Fredericks,0.4776666666666667
+6696,F,train-clean-360,25.14,Katryn Wiese,0.419
+6701,M,train-clean-360,25.13,Dayle,0.41883333333333334
+6705,F,train-other-500,30.05,D. A. Frank,0.5008333333333334
+6707,M,train-other-500,27.06,Lewis,0.45099999999999996
+6709,M,train-other-500,26.15,vinphizz,0.4358333333333333
+6713,M,train-other-500,12.85,stephenreader,0.21416666666666667
+6724,F,train-other-500,30.05,Kristin Young,0.5008333333333334
+6726,F,train-other-500,30.15,metgmz,0.5025
+6727,M,train-clean-360,9.4,Tony Russell,0.15666666666666668
+6733,F,train-other-500,27.65,Snapdragon,0.4608333333333333
+6735,F,train-other-500,30.11,fshort,0.5018333333333334
+6741,F,train-other-500,24.76,Sharon C.,0.4126666666666667
+6743,M,train-other-500,9.91,Rick Rodney,0.16516666666666666
+6746,M,train-other-500,25.94,Robin Skelcey,0.43233333333333335
+6747,M,train-other-500,17.49,Ryan Lothian,0.2915
+6749,F,train-other-500,30.12,MaryA,0.502
+6752,M,train-other-500,26.78,maxvon_d,0.44633333333333336
+6753,M,train-other-500,13.29,T.E. McHenry,0.22149999999999997
+6754,M,train-other-500,30.04,ToddHW,0.5006666666666667
+6758,F,train-other-500,12.46,The Gypsy,0.2076666666666667
+6763,F,train-clean-360,21.2,Manjit Bains,0.35333333333333333
+6773,M,train-other-500,17.55,MostafaRazavi,0.29250000000000004
+6777,M,train-other-500,30.23,Rick Saffery,0.5038333333333334
+6782,F,train-clean-360,23.36,zcameo,0.3893333333333333
+6784,M,train-other-500,29.98,SteveBuys,0.49966666666666665
+6788,F,train-clean-360,25.11,Pamela Krantz,0.4185
+6792,M,train-other-500,30.24,montmorency,0.504
+6794,F,train-other-500,21.11,Rachel Moyar,0.35183333333333333
+6798,M,train-other-500,30.04,Aesthete's Readings,0.5006666666666667
+6804,M,train-other-500,30.19,Nick Duncan,0.5031666666666667
+6807,F,train-other-500,30.08,Lisa Caputo,0.5013333333333333
+6818,F,train-clean-100,25.17,beckyboyd,0.41950000000000004
+6821,F,train-other-500,21.87,Rholdah,0.3645
+6828,F,train-clean-360,25.11,"Lori Fuller Chugiak, AK",0.4185
+6829,F,test-clean,8.24,LadyBug,0.13733333333333334
+6836,M,train-clean-100,25.01,John,0.41683333333333333
+6841,M,dev-other,10.06,A. E. Maroney,0.16766666666666669
+6846,M,train-other-500,18.48,John Leonard,0.308
+6848,M,train-clean-100,25.17,KarlHenning,0.41950000000000004
+6849,M,train-other-500,26.68,Dan Raynham,0.44466666666666665
+6853,F,train-other-500,22.04,J. McKnight,0.36733333333333335
+6865,F,train-clean-360,25.03,Jing Li,0.4171666666666667
+6875,M,train-other-500,21.09,Bill Miller,0.3515
+6877,M,train-clean-360,25.23,Bear Schacht,0.4205
+6880,M,train-clean-100,25.1,Capybara,0.41833333333333333
+6882,M,train-other-500,29.24,David Isenhower,0.4873333333333333
+6883,M,train-other-500,30.05,Adam Doughty,0.5008333333333334
+6892,M,train-other-500,30.05,Piotr Nater,0.5008333333333334
+6895,F,train-clean-360,25.23,Reeses118,0.4205
+6902,F,train-other-500,23.36,Barbara Edelman,0.3893333333333333
+6904,F,train-clean-360,24.57,Kirsten Nelson,0.40950000000000003
+6906,F,train-other-500,20.67,Joanna1,0.34450000000000003
+6912,M,train-other-500,30.13,Richard Beck,0.5021666666666667
+6913,F,train-other-500,12.55,daisyb,0.20916666666666667
+6914,F,train-other-500,28.92,Katalina Watt,0.48200000000000004
+6918,F,train-clean-360,25.11,Marilyn Mack,0.4185
+6923,M,train-other-500,30.15,Szindbad,0.5025
+6924,F,train-clean-360,25.12,Rapunzelina,0.4186666666666667
+6925,M,train-clean-100,17.07,Thomas Meaney,0.28450000000000003
+6927,F,train-clean-360,25.0,Sarika Pawar,0.4166666666666667
+6930,M,test-clean,8.0,Nolan Fout,0.13333333333333333
+6937,F,train-clean-360,23.29,DVoice,0.38816666666666666
+6938,F,test-other,2.64,Simmy,0.044000000000000004
+6943,F,train-other-500,30.21,Chieko Steely,0.5035000000000001
+6945,M,train-other-500,30.07,Daniel George,0.5011666666666666
+6947,F,train-other-500,30.22,Grace,0.5036666666666666
+6950,F,train-other-500,27.3,elmay,0.455
+6951,F,train-other-500,18.65,redhed3095,0.3108333333333333
+6954,M,train-other-500,30.08,Paul Richards,0.5013333333333333
+6956,M,train-clean-360,25.1,DannyHauger,0.41833333333333333
+6962,M,train-other-500,10.53,mattoscarlomas,0.1755
+6963,M,train-other-500,23.89,Kasper,0.39816666666666667
+6965,M,train-clean-360,25.0,NoelBadrian,0.4166666666666667
+6967,F,train-other-500,30.06,sganatra81,0.501
+6974,M,train-other-500,8.01,Michael Armenta,0.1335
+6978,F,train-other-500,30.04,Debra,0.5006666666666667
+6981,M,train-clean-360,25.09,nlonghu,0.4181666666666667
+6993,M,train-clean-360,25.24,Seyed,0.42066666666666663
+7000,M,train-clean-360,24.75,Kevin Alix,0.4125
+7001,F,train-other-500,30.09,Arienne,0.5015
+7008,M,train-other-500,21.23,John Trevithick,0.35383333333333333
+7009,M,train-other-500,24.38,roeg11,0.4063333333333333
+7011,M,train-clean-360,17.59,Icprice,0.2931666666666667
+7012,F,train-other-500,30.0,Erin McKelle,0.5
+7018,M,test-other,10.24,FSharp,0.17066666666666666
+7021,M,test-clean,8.14,Nodo420,0.13566666666666669
+7026,F,train-other-500,23.84,Michele Eaton,0.3973333333333333
+7030,M,train-clean-360,20.57,Conrad T,0.3428333333333333
+7046,M,train-other-500,24.11,Pascal Ramseier,0.4018333333333333
+7051,M,train-clean-360,13.88,Andrew White,0.23133333333333334
+7055,M,train-other-500,30.03,gemtwist,0.5005000000000001
+7059,F,train-clean-100,25.02,Joannemmp,0.417
+7061,M,train-clean-360,25.26,AllenJohns,0.42100000000000004
+7062,F,train-other-500,28.3,Rebecca Thomas,0.4716666666666667
+7065,M,train-other-500,24.16,smitaj,0.4026666666666667
+7067,M,train-clean-100,25.17,Matthew Wall,0.41950000000000004
+7069,M,train-clean-360,25.08,John Schuurman,0.418
+7073,F,train-other-500,24.98,Jill Janovetz,0.41633333333333333
+7078,F,train-clean-100,25.14,Mary in Arkansas,0.419
+7079,F,train-other-500,29.43,Chuck Williamson,0.4905
+7085,M,train-clean-360,25.19,voicebynatalie,0.41983333333333334
+7090,M,train-clean-360,25.05,Jon Sindell,0.41750000000000004
+7092,F,train-other-500,30.15,Lorraine B,0.5025
+7095,M,train-clean-360,25.15,Wesseling,0.41916666666666663
+7096,M,train-other-500,17.43,Gary Iredale,0.2905
+7097,F,train-other-500,26.23,novelreader,0.43716666666666665
+7105,M,test-other,10.15,jennycbnyn,0.16916666666666666
+7107,M,train-other-500,30.09,titankin77,0.5015
+7113,F,train-clean-100,25.2,Sukaina Jaffer,0.42
+7117,F,train-clean-360,25.17,Art Leung,0.41950000000000004
+7120,F,train-clean-360,25.1,L D Hamilton,0.41833333333333333
+7121,M,train-other-500,27.88,384403,0.4646666666666667
+7125,F,train-other-500,18.82,Peggy,0.31366666666666665
+7126,M,train-clean-360,21.69,pekein,0.36150000000000004
+7127,M,test-clean,8.32,Bill Kneeland,0.13866666666666666
+7128,M,train-clean-360,25.01,morganreads,0.41683333333333333
+7131,F,train-other-500,24.22,Eden Rea-Hedrick,0.4036666666666667
+7134,M,train-clean-360,25.1,Steve Jackson,0.41833333333333333
+7135,F,train-other-500,29.21,Maggie Smallwood,0.48683333333333334
+7138,F,train-other-500,30.08,CaprishaPage,0.5013333333333333
+7139,M,train-clean-360,25.11,gabrielv,0.4185
+7140,F,train-clean-360,23.6,Deanna Bovee,0.39333333333333337
+7143,F,train-other-500,20.54,Minni Ang,0.3423333333333333
+7145,F,train-clean-360,21.84,Lita Ledesma,0.364
+7147,M,train-other-500,19.94,S.Nevets,0.33233333333333337
+7148,F,train-clean-100,25.02,Vickie Ranz,0.417
+7150,M,train-other-500,30.2,asterix,0.5033333333333333
+7155,M,train-other-500,30.11,pklipp,0.5018333333333334
+7169,M,train-clean-360,16.01,Ryan Ransom,0.26683333333333337
+7170,M,train-other-500,25.81,alanmapstone,0.43016666666666664
+7176,M,test-clean,8.06,KalenXI,0.13433333333333333
+7177,F,train-other-500,15.43,shana,0.25716666666666665
+7178,F,train-clean-100,25.11,J.K. Neely,0.4185
+7188,M,train-clean-360,25.07,Marty,0.41783333333333333
+7189,M,train-other-500,29.34,doonaboon,0.489
+7190,M,train-clean-100,25.22,Tony Posante,0.42033333333333334
+7197,F,train-other-500,23.88,Christine Richardson,0.39799999999999996
+7198,F,train-other-500,27.75,Daniela Austin,0.4625
+7199,F,train-other-500,30.01,T.K. Kirven,0.5001666666666666
+7205,F,train-other-500,30.24,genierose,0.504
+7208,M,train-other-500,30.1,KK,0.5016666666666667
+7215,M,train-other-500,28.97,BensonBrunswin,0.48283333333333334
+7218,F,train-other-500,28.76,MJ Franck,0.47933333333333333
+7220,F,train-other-500,28.59,LynnAlison,0.4765
+7223,F,train-other-500,23.26,eye hear voices,0.3876666666666667
+7226,M,train-clean-100,25.05,Jonathan Moore,0.41750000000000004
+7228,M,train-other-500,29.36,Peter John Keeble,0.48933333333333334
+7229,F,train-clean-360,21.53,Linda Ciano,0.35883333333333334
+7238,M,train-other-500,27.44,Uday Sagar,0.45733333333333337
+7239,M,train-other-500,19.74,manofwealth,0.32899999999999996
+7240,F,train-clean-360,25.11,Lucretia B.,0.4185
+7241,M,train-clean-360,25.16,AdrianBisson,0.41933333333333334
+7242,F,train-other-500,30.02,Renate,0.5003333333333333
+7245,F,train-clean-360,25.04,Laura Atkinson,0.41733333333333333
+7246,F,train-other-500,27.02,Lyn Silva,0.4503333333333333
+7247,M,train-clean-360,25.1,Robert Hoffman,0.41833333333333333
+7250,F,train-other-500,22.08,A. J. Elliot,0.368
+7255,F,train-other-500,18.6,Jendia,0.31
+7258,M,train-clean-360,25.08,acloward,0.418
+7263,F,train-other-500,14.62,rachaelg,0.24366666666666664
+7264,M,train-clean-100,23.42,Sean McClain,0.39033333333333337
+7265,F,train-other-500,30.21,Annie,0.5035000000000001
+7276,F,train-clean-360,25.0,ASPotter,0.4166666666666667
+7277,F,train-other-500,30.02,Jenny Bradshaw,0.5003333333333333
+7278,M,train-clean-100,25.01,Jon Smith,0.41683333333333333
+7285,F,train-clean-360,25.07,Christina M. Glavas,0.41783333333333333
+7286,F,train-clean-360,23.75,kindfish,0.3958333333333333
+7294,F,train-clean-360,25.01,Muriel,0.41683333333333333
+7297,F,train-clean-360,18.65,Mudlark,0.3108333333333333
+7299,F,train-other-500,21.99,Barbara Miller,0.3665
+7301,M,train-other-500,5.54,jonseverity,0.09233333333333334
+7302,F,train-clean-100,25.1,Asta1234,0.41833333333333333
+7307,M,train-other-500,27.58,Anthony Ogus,0.4596666666666666
+7312,M,train-clean-100,5.44,nkneer,0.09066666666666667
+7313,M,train-clean-360,25.24,Mark DeVol,0.42066666666666663
+7314,M,train-clean-360,25.17,Rick Cahill,0.41950000000000004
+7315,F,train-other-500,11.77,Charlotte Duckett,0.19616666666666666
+7316,F,train-clean-360,18.8,Joy S Grape,0.31333333333333335
+7318,F,train-clean-360,25.13,Anise,0.41883333333333334
+7320,F,train-other-500,26.51,Monika Rolley,0.44183333333333336
+7326,M,train-other-500,20.91,Adam,0.3485
+7327,M,train-other-500,25.46,Tommy Howell,0.42433333333333334
+7331,F,train-other-500,30.15,AnabelleC,0.5025
+7333,F,train-other-500,30.22,Lydia Paterson,0.5036666666666666
+7335,F,train-clean-360,23.72,Kathryn Louise,0.3953333333333333
+7337,F,train-other-500,24.93,Adina Owen,0.4155
+7338,M,train-other-500,30.11,Eberle Thomas,0.5018333333333334
+7339,M,train-clean-360,25.1,wildalaska,0.41833333333333333
+7342,F,train-clean-360,25.01,Carol,0.41683333333333333
+7346,M,train-other-500,17.89,James Bendall,0.2981666666666667
+7348,F,train-other-500,30.16,acousticwave,0.5026666666666667
+7354,M,train-other-500,30.01,TrevorD777,0.5001666666666666
+7357,M,train-other-500,12.31,rebcult,0.20516666666666666
+7360,F,train-other-500,27.64,Caroline Hemmerly Kunkle,0.46066666666666667
+7367,M,train-clean-100,25.13,NIneFive83,0.41883333333333334
+7376,F,train-other-500,30.12,Nyssa E. Schmidt,0.502
+7383,F,train-clean-360,20.2,Meg Cowan,0.33666666666666667
+7384,F,train-clean-360,20.3,Diana Dolan,0.3383333333333333
+7387,F,train-other-500,28.58,Tara Dow,0.47633333333333333
+7389,M,train-other-500,30.17,Steve C,0.5028333333333334
+7391,M,train-other-500,30.15,Cary Simz,0.5025
+7392,F,train-other-500,30.09,MicheleW,0.5015
+7395,F,train-clean-360,18.05,Katherine,0.30083333333333334
+7398,F,train-clean-360,25.09,Marie Daum,0.4181666666666667
+7402,M,train-clean-100,25.01,Canby Ibarra,0.41683333333333333
+7408,M,train-other-500,30.14,David Clarke,0.5023333333333333
+7416,F,train-clean-360,22.16,Jeanni Hall,0.36933333333333335
+7423,M,train-other-500,30.09,Gilles G. Le Blanc,0.5015
+7424,M,train-other-500,30.04,Christopher Smith,0.5006666666666667
+7433,F,train-other-500,30.0,Gabriela Cowan,0.5
+7434,F,train-clean-360,23.58,Emily Feuka,0.39299999999999996
+7436,M,train-other-500,24.52,Gregory Eccles,0.4086666666666667
+7437,M,train-clean-360,25.2,Graham McMillan,0.42
+7445,F,train-clean-360,25.14,Emily Anderson,0.419
+7447,M,train-clean-100,25.24,dasbury,0.42066666666666663
+7448,M,train-other-500,18.19,Kevin Johnson,0.3031666666666667
+7460,M,train-clean-360,25.24,Larry Beasley,0.42066666666666663
+7463,M,train-other-500,30.08,Pete Milan,0.5013333333333333
+7467,F,train-other-500,29.01,freshface,0.48350000000000004
+7475,M,train-clean-360,6.1,Jared Hess,0.10166666666666666
+7478,M,train-clean-360,25.03,Dan Froese,0.4171666666666667
+7480,F,train-other-500,23.93,Tricia F.,0.3988333333333333
+7481,F,train-clean-360,22.09,Karen Howard,0.36816666666666664
+7484,M,train-clean-360,22.63,Tyran Rexx,0.37716666666666665
+7491,F,train-other-500,30.11,Lilaread,0.5018333333333334
+7492,F,train-other-500,30.13,Scheherazade,0.5021666666666667
+7495,F,train-clean-360,25.02,Arlene Joyce,0.417
+7498,F,train-clean-360,20.7,MarianneVictoria,0.345
+7502,M,train-other-500,17.53,mikefernlea,0.2921666666666667
+7505,M,train-clean-100,25.13,Ron Lockhart,0.41883333333333334
+7507,F,train-other-500,30.22,UnaVersal,0.5036666666666666
+7510,F,train-other-500,28.25,Kathrine Engan,0.4708333333333333
+7511,F,train-clean-100,25.0,Sherri Vance,0.4166666666666667
+7512,M,train-other-500,15.2,dudeman,0.2533333333333333
+7514,F,train-other-500,6.57,Barbara Baker,0.1095
+7515,F,train-clean-360,25.17,Cynthia Moyer,0.41950000000000004
+7517,F,train-clean-100,24.29,Raz Mason,0.4048333333333333
+7518,M,train-clean-360,25.07,TJDasch,0.41783333333333333
+7520,M,train-clean-360,24.21,Richard Jackson,0.4035
+7522,F,train-other-500,15.28,Kelsey P,0.25466666666666665
+7525,F,train-clean-360,25.19,Jeannie Tirado,0.41983333333333334
+7538,M,train-clean-360,25.04,Logan West,0.41733333333333333
+7540,M,train-clean-360,25.26,Christopher Webber,0.42100000000000004
+7552,F,train-other-500,22.45,KateC,0.37416666666666665
+7553,M,train-clean-360,25.22,BDSEmpire,0.42033333333333334
+7555,F,train-clean-360,23.23,Suebee,0.38716666666666666
+7556,M,train-other-500,30.14,Alex Lau,0.5023333333333333
+7558,M,train-clean-360,11.0,J. A. Cook,0.18333333333333332
+7559,M,train-other-500,29.99,gassumpcao,0.4998333333333333
+7561,M,train-other-500,9.12,Shawn Bayern,0.152
+7565,M,train-other-500,30.07,Derek,0.5011666666666666
+7569,M,train-clean-360,25.17,Stephen L. Moss,0.41950000000000004
+7584,F,train-other-500,29.57,kandice stehlik,0.49283333333333335
+7585,M,train-other-500,30.07,MaxSitting,0.5011666666666666
+7594,F,train-clean-360,25.0,Kristel Tretter,0.4166666666666667
+7597,F,train-other-500,30.21,Inah Derby,0.5035000000000001
+7601,M,dev-other,10.18,Malone,0.16966666666666666
+7603,M,train-other-500,20.56,Wupperhippo,0.3426666666666666
+7607,F,train-other-500,7.1,C F de Rosset,0.11833333333333333
+7608,M,train-other-500,9.33,rookieblue,0.1555
+7609,F,train-other-500,30.14,detroitreads,0.5023333333333333
+7618,M,train-other-500,28.96,Stipsky,0.4826666666666667
+7635,F,train-clean-100,25.06,Judy Guinan,0.41766666666666663
+7640,M,train-other-500,28.97,Dan Darbandi,0.48283333333333334
+7641,M,dev-other,10.03,Moromis,0.16716666666666666
+7644,F,train-other-500,15.19,Raphael Platt,0.25316666666666665
+7647,M,train-clean-360,21.83,Daniel T. Miller,0.3638333333333333
+7649,F,train-other-500,30.16,Lanerd,0.5026666666666667
+7654,M,train-other-500,12.73,Word And Mouth,0.21216666666666667
+7657,F,train-clean-360,11.93,shalclark,0.19883333333333333
+7665,M,train-clean-360,23.27,Christian Mitchell,0.3878333333333333
+7672,M,train-other-500,30.1,Cooper Leith,0.5016666666666667
+7679,F,train-other-500,30.14,Libby Gohn,0.5023333333333333
+7683,F,train-other-500,17.41,Carolyne,0.2901666666666667
+7687,F,train-other-500,30.05,Demosthenes,0.5008333333333334
+7688,M,train-clean-360,25.19,Leslie Walden,0.41983333333333334
+7691,M,train-other-500,26.4,engineerdst,0.44
+7697,M,dev-other,10.07,JustinJYN,0.16783333333333333
+7699,F,train-other-500,30.11,DylanTG,0.5018333333333334
+7700,M,train-other-500,28.24,Dave Wills,0.4706666666666666
+7702,F,train-other-500,16.08,Linda Jenner,0.26799999999999996
+7704,M,train-clean-360,25.16,Robert Harder,0.41933333333333334
+7705,M,train-clean-360,25.01,Timothy Luke,0.41683333333333333
+7708,F,train-other-500,29.71,Savannah,0.4951666666666667
+7713,M,train-other-500,30.11,Sacha Chander,0.5018333333333334
+7717,F,train-clean-360,25.01,Astrid Fingerhut,0.41683333333333333
+7720,M,train-clean-360,25.03,jeffwiltzius,0.4171666666666667
+7729,M,test-clean,8.17,Tim Bower,0.13616666666666666
+7730,F,train-clean-360,25.23,Fiddlesticks,0.4205
+7732,M,train-clean-360,24.92,Daniel Vimont,0.4153333333333334
+7733,F,train-clean-360,19.49,Jewel Raquel,0.3248333333333333
+7737,F,train-other-500,27.17,Elisabeth Sollog,0.45283333333333337
+7739,F,train-clean-360,25.19,Melissa Burns-Price,0.41983333333333334
+7746,M,train-other-500,28.01,Tom Causby,0.4668333333333334
+7749,M,train-other-500,22.83,Sammy Bean,0.38049999999999995
+7752,F,train-clean-360,25.08,Samantha Miles,0.418
+7754,F,train-clean-360,25.12,Iridescat,0.4186666666666667
+7756,F,train-other-500,30.12,Lynne Thompson,0.502
+7762,F,train-other-500,17.51,Fannie,0.29183333333333333
+7764,M,train-other-500,16.55,Mike Nelson,0.2758333333333333
+7766,F,train-clean-360,25.12,Maryanka,0.4186666666666667
+7769,M,train-other-500,29.01,David Biro,0.48350000000000004
+7777,M,train-clean-360,16.44,Jacob Paine,0.274
+7780,F,train-clean-100,23.5,tazzle,0.39166666666666666
+7783,F,train-clean-360,20.0,Rebecca Owens,0.3333333333333333
+7786,M,train-other-500,28.11,Kevin W. Davidson,0.46849999999999997
+7789,F,train-clean-360,25.04,Lauren Jane,0.41733333333333333
+7794,F,train-clean-100,25.23,mlcui,0.4205
+7795,M,train-other-500,18.46,Cubrick,0.3076666666666667
+7796,M,train-other-500,30.13,Raybrite,0.5021666666666667
+7800,F,train-clean-100,25.21,Arie,0.4201666666666667
+7802,F,train-clean-360,25.12,Samantha J Gubitz,0.4186666666666667
+7809,M,train-clean-360,25.1,D. T. McGregor,0.41833333333333333
+7816,F,train-clean-360,25.04,Stefanie Heinrichs,0.41733333333333333
+7823,M,train-other-500,27.4,Bart in 't Veld,0.45666666666666667
+7825,M,train-clean-360,11.35,PDyer,0.18916666666666665
+7826,M,train-other-500,27.31,Dave Shaw,0.45516666666666666
+7828,M,train-clean-360,25.0,Dan Mason,0.4166666666666667
+7832,M,train-clean-360,25.01,DJRickyV,0.41683333333333333
+7833,M,train-clean-360,25.15,Jesse Crisp-Sears,0.41916666666666663
+7835,M,train-other-500,13.79,kageokami,0.2298333333333333
+7837,M,train-clean-360,22.24,Alfian,0.37066666666666664
+7839,F,train-other-500,30.22,Loveday,0.5036666666666666
+7843,F,train-other-500,19.14,Annette McGuinness,0.319
+7848,M,train-other-500,29.06,bala,0.48433333333333334
+7850,F,dev-clean,8.06,Jill Engle,0.13433333333333333
+7859,F,train-clean-100,21.58,xinamarieuhl,0.35966666666666663
+7867,M,train-clean-360,25.08,nomorejeffs,0.418
+7868,F,train-clean-360,25.03,Chessie Joy,0.4171666666666667
+7871,M,train-other-500,30.15,Rocit,0.5025
+7874,M,train-clean-360,25.16,dgulino,0.41933333333333334
+7879,F,train-other-500,29.1,deongines,0.48500000000000004
+7881,M,train-clean-360,22.9,Sam Naishtat,0.38166666666666665
+7883,F,train-other-500,30.03,Annapurna,0.5005000000000001
+7886,F,train-other-500,7.8,Mariah Lyons,0.13
+7892,F,train-other-500,9.14,Alexis Castro,0.15233333333333335
+7898,F,train-other-500,30.09,Coreena,0.5015
+7902,M,test-other,10.09,Kyle Van DeGlast,0.16816666666666666
+7909,M,train-clean-360,1.92,MGreenberg,0.032
+7910,F,train-clean-360,25.24,southernemma,0.42066666666666663
+7912,M,train-other-500,30.19,Nathan Dickey,0.5031666666666667
+7923,M,train-other-500,26.15,amaskill,0.4358333333333333
+7925,F,train-other-500,22.64,Etel Buss,0.37733333333333335
+7926,M,train-clean-360,25.18,Steven Reynolds,0.4196666666666667
+7932,F,train-clean-360,25.25,Tammy Stalcup,0.42083333333333334
+7933,F,train-clean-360,25.09,Highlandoaks,0.4181666666666667
+7938,M,train-clean-360,25.18,Goss45,0.4196666666666667
+7939,M,train-clean-360,25.19,DPranitis,0.41983333333333334
+7942,M,train-other-500,30.02,Luke Sartor,0.5003333333333333
+7945,F,train-clean-360,18.87,Lois Browne,0.3145
+7946,F,train-other-500,15.89,Flash,0.26483333333333337
+7949,M,train-clean-360,22.19,Jon Miller,0.36983333333333335
+7956,M,train-clean-360,20.78,Devon Purtz,0.3463333333333333
+7957,M,train-clean-360,21.63,Wiley Combs,0.3605
+7959,F,train-clean-360,25.03,Lily Took,0.4171666666666667
+7962,F,train-clean-360,25.15,Jolie O'Dell,0.41916666666666663
+7967,F,train-clean-360,22.42,Lois Hill,0.3736666666666667
+7975,M,test-other,10.04,William A Crenshaw,0.1673333333333333
+7976,M,dev-clean,8.13,JenniferRutters,0.1355
+7981,M,train-clean-360,25.06,timothyFR,0.41766666666666663
+7982,F,train-clean-360,25.11,Lori Arsenault,0.4185
+7988,M,train-other-500,27.62,JaySands,0.46033333333333337
+7991,M,train-clean-360,25.01,Aaron Weber,0.41683333333333333
+7994,F,train-clean-360,25.08,Marian Cervassi,0.418
+7995,F,train-clean-360,25.2,Marie Hoffman,0.42
+7997,M,train-other-500,30.16,Tom Merritt,0.5026666666666667
+8005,F,train-other-500,29.84,Julia Wells,0.49733333333333335
+8006,M,train-clean-360,25.1,TyroneS,0.41833333333333333
+8008,M,train-clean-360,25.18,Paul Adamson,0.4196666666666667
+8009,F,train-other-500,30.1,Frances Brown,0.5016666666666667
+8011,M,train-clean-360,25.09,Greg Giordano,0.4181666666666667
+8012,F,train-other-500,30.04,WoollyBee,0.5006666666666667
+8014,F,train-clean-100,14.42,constatine,0.24033333333333334
+8015,F,train-other-500,28.07,Underhill,0.4678333333333333
+8023,M,train-other-500,24.86,JamesMcAndrew,0.41433333333333333
+8028,M,train-clean-360,25.1,Tom Geller,0.41833333333333333
+8033,M,train-other-500,30.08,geoffbl,0.5013333333333333
+8040,F,train-other-500,27.02,NatalieOram,0.4503333333333333
+8042,M,train-other-500,30.18,Jack Watson Warr,0.503
+8044,F,train-other-500,30.21,Sarah Hannah,0.5035000000000001
+8050,M,train-clean-360,22.02,Jake Woldstad,0.367
+8051,F,train-clean-100,25.23,Maria Kasper,0.4205
+8057,F,train-clean-360,16.93,Linda Dougherty,0.2821666666666667
+8058,M,train-other-500,19.53,RLC,0.3255
+8063,M,train-clean-100,25.08,Robert Snoza,0.418
+8066,M,train-clean-360,25.15,Tim Cote,0.41916666666666663
+8071,F,train-other-500,30.22,Vanessa Garcia,0.5036666666666666
+8072,F,train-other-500,8.03,Kimberly Krause,0.13383333333333333
+8075,F,train-clean-360,25.21,Melora,0.4201666666666667
+8080,F,train-clean-360,25.23,e.a.zokaites,0.4205
+8087,M,train-other-500,30.16,Arnie Horton,0.5026666666666667
+8088,M,train-clean-100,25.06,Jason Bolestridge,0.41766666666666663
+8095,M,train-clean-100,25.03,Theodulf,0.4171666666666667
+8097,F,train-clean-360,25.04,lewildesen,0.41733333333333333
+8098,M,train-clean-100,25.18,Arnold,0.4196666666666667
+8108,M,train-clean-100,25.03,drakaunus,0.4171666666666667
+8112,F,train-other-500,22.66,Christine Lamberton,0.37766666666666665
+8113,F,train-clean-360,25.06,PennyAnn,0.41766666666666663
+8118,F,train-clean-360,25.0,Katie McClain,0.4166666666666667
+8119,M,train-clean-360,25.16,Malcolm Cameron,0.41933333333333334
+8123,F,train-clean-100,25.15,Sheila Wood,0.41916666666666663
+8131,M,test-other,10.04,Christian Alexander,0.1673333333333333
+8138,M,train-clean-360,25.2,Lee Smalley,0.42
+8142,M,train-clean-360,25.06,Timothy Lucas,0.41766666666666663
+8143,M,train-other-500,30.01,Nick Whitley,0.5001666666666666
+8148,F,train-other-500,28.08,Xiph,0.46799999999999997
+8152,M,train-clean-360,25.2,Bigcowfeet,0.42
+8156,F,train-other-500,30.03,Brooke Cunningham,0.5005000000000001
+8163,F,train-clean-360,25.02,Greengecko,0.417
+8164,M,train-other-500,23.1,Rob Board,0.385
+8168,F,train-other-500,18.41,Kiera Davidson,0.30683333333333335
+8169,M,train-other-500,25.51,tovarisch,0.4251666666666667
+8172,M,train-other-500,16.88,Alan Weyman,0.2813333333333333
+8173,F,dev-other,5.23,emmablob,0.08716666666666667
+8176,M,train-clean-360,18.78,Jon Kerfoot,0.313
+8180,F,train-other-500,27.7,Elanor Sakamoto,0.46166666666666667
+8183,F,train-clean-360,25.18,Cheri Jordan,0.4196666666666667
+8188,M,test-other,10.12,Matthew Calvin,0.16866666666666666
+8190,F,train-clean-360,21.67,Lisa Phelps Gonzalez,0.3611666666666667
+8193,F,train-clean-360,25.23,helengraves,0.4205
+8194,F,train-clean-360,25.04,MsMO,0.41733333333333333
+8195,M,train-clean-360,25.04,Mr Krause,0.41733333333333333
+8197,F,train-other-500,27.75,Victoria P,0.4625
+8199,F,train-other-500,26.29,maryagneskatherine,0.43816666666666665
+8200,M,train-other-500,30.02,Dan S,0.5003333333333333
+8208,M,train-other-500,30.08,zaanta,0.5013333333333333
+8215,M,train-other-500,30.23,readread,0.5038333333333334
+8222,M,train-clean-360,25.09,Greg Golding,0.4181666666666667
+8224,M,test-clean,8.24,Leanne Kinkopf,0.13733333333333334
+8225,M,train-clean-360,25.09,Matt Lusher,0.4181666666666667
+8226,M,train-clean-100,25.18,Adam Picot,0.4196666666666667
+8228,F,train-clean-360,7.38,hgal2010,0.123
+8230,M,test-clean,8.25,David Jenkins,0.1375
+8238,F,train-clean-100,25.08,Madam Fickle,0.418
+8240,F,train-other-500,30.17,Gertrude Durette,0.5028333333333334
+8242,F,train-other-500,30.13,Anita Slusser,0.5021666666666667
+8245,M,train-other-500,24.91,gscheids,0.4151666666666667
+8246,M,train-other-500,18.83,beeveeo,0.3138333333333333
+8250,M,train-other-500,29.44,Stephen Gibbons,0.4906666666666667
+8254,F,dev-other,10.05,Jeana Wei,0.1675
+8259,F,train-other-500,21.68,Lawrence,0.36133333333333334
+8262,M,train-other-500,28.44,Jack Powell,0.47400000000000003
+8266,M,train-clean-360,25.02,Jeff K.,0.417
+8272,F,train-other-500,25.07,Haili,0.41783333333333333
+8273,M,train-other-500,30.21,Lucas Boulding,0.5035000000000001
+8280,F,test-other,8.15,AlaynaMay,0.13583333333333333
+8288,M,dev-other,6.66,Wayne Donovan,0.111
+8291,M,train-other-500,30.19,Elliot Gage,0.5031666666666667
+8295,F,train-other-500,30.14,Susan Morin,0.5023333333333333
+8296,F,train-other-500,20.34,Bria Snow,0.339
+8297,M,dev-clean,8.04,David Mecionis,0.13399999999999998
+8300,F,train-clean-360,24.44,Judith Parker,0.4073333333333334
+8302,F,train-other-500,25.5,Charlotte Day,0.425
+8307,M,train-other-500,29.32,Nick Bulka,0.4886666666666667
+8312,F,train-clean-100,25.14,Jaimie Noy,0.419
+8316,M,train-other-500,17.3,Rocket Rodger,0.28833333333333333
+8321,F,train-other-500,30.15,SamR,0.5025
+8322,M,train-other-500,29.61,yeknod,0.4935
+8324,F,train-clean-100,25.16,Kathy Wright,0.41933333333333334
+8328,M,train-other-500,28.24,William Gavula,0.4706666666666666
+8329,F,train-clean-360,21.14,Betty Perry,0.35233333333333333
+8334,M,train-other-500,26.14,Doug Reed,0.4356666666666667
+8337,F,train-other-500,30.09,Claudia Salto,0.5015
+8346,M,train-other-500,28.71,Al Rocca,0.47850000000000004
+8347,M,train-clean-360,21.88,Terry Torres,0.36466666666666664
+8356,M,train-other-500,30.16,Paul Mazumdar,0.5026666666666667
+8367,M,train-other-500,24.19,ophiuroidea,0.4031666666666667
+8382,F,train-other-500,26.8,Claire Schreuder,0.44666666666666666
+8388,F,train-clean-360,22.87,Jacki Horn,0.3811666666666667
+8389,M,train-other-500,25.06,Steven Bateman,0.41766666666666663
+8392,F,train-other-500,23.95,Katharina Huang,0.39916666666666667
+8394,M,train-other-500,18.93,Matthew Walker,0.3155
+8396,M,train-clean-360,25.16,gloriousjob,0.41933333333333334
+8401,M,train-clean-360,24.29,Alexander Hatton,0.4048333333333333
+8404,F,train-clean-360,23.61,Lynne Ray,0.3935
+8410,F,train-clean-360,25.05,Shauna Kennett,0.41750000000000004
+8413,M,train-other-500,10.28,PaulMichael1084,0.1713333333333333
+8414,F,train-other-500,12.07,jtueller,0.20116666666666666
+8415,F,train-other-500,23.44,Rusty Dancer,0.39066666666666666
+8419,M,train-clean-100,25.22,Jon Kissack,0.42033333333333334
+8421,F,train-clean-360,20.02,Jackie Drown,0.33366666666666667
+8422,M,train-other-500,30.24,pjhoury,0.504
+8424,F,train-other-500,23.87,Schums,0.39783333333333337
+8425,M,train-clean-100,25.16,Larry Wilson,0.41933333333333334
+8430,F,train-other-500,30.02,shihping,0.5003333333333333
+8432,F,train-other-500,10.8,Emma Joyce,0.18000000000000002
+8441,F,train-other-500,23.64,ryoko,0.394
+8443,F,train-other-500,22.83,Marsha Payne,0.38049999999999995
+8444,M,train-other-500,29.41,Anthony Webster,0.4901666666666667
+8445,M,train-other-500,30.21,Brett G. Hirsch,0.5035000000000001
+8447,F,train-other-500,17.37,Anastasiia Solokha,0.28950000000000004
+8455,M,test-clean,8.03,thecheops,0.13383333333333333
+8459,M,train-clean-360,25.09,sdaeley17,0.4181666666666667
+8461,F,test-other,10.13,Allie Cingi,0.16883333333333334
+8463,F,test-clean,8.05,Michele Fry,0.13416666666666668
+8464,M,train-clean-360,18.03,HappyMiamiDad,0.30050000000000004
+8465,F,train-clean-100,24.88,TinaNygard2,0.41466666666666663
+8466,M,train-other-500,19.38,Chris Cartwright,0.323
+8468,F,train-clean-100,25.23,Jennifer Dorr,0.4205
+8470,F,train-other-500,26.24,Rebecca Braunert-Plunkett,0.4373333333333333
+8474,M,train-clean-360,25.07,Scott Snowman,0.41783333333333333
+8476,F,train-other-500,20.74,Julie Mansius,0.3456666666666666
+8479,M,train-clean-360,14.02,R.W. Rushing,0.23366666666666666
+8490,M,train-clean-360,16.96,Matt Parker,0.2826666666666667
+8494,M,train-clean-360,24.2,Bill Yallalee,0.4033333333333333
+8498,M,train-clean-360,25.1,Ian Quinlan,0.41833333333333333
+8499,M,train-other-500,30.02,ReadAllDay,0.5003333333333333
+8500,M,train-other-500,30.12,Ravi Shankar,0.502
+8506,F,train-clean-360,25.03,Denise Nordell,0.4171666666666667
+8527,M,train-clean-360,25.15,Gary Bohannon,0.41916666666666663
+8531,M,train-other-500,19.27,imenadel,0.32116666666666666
+8534,M,train-clean-360,23.94,Chris Clark,0.399
+8536,M,train-other-500,29.74,Jonathan Brubaker,0.49566666666666664
+8543,F,train-other-500,25.05,luckyemma,0.41750000000000004
+8544,F,train-other-500,19.21,Pooja DSr,0.32016666666666665
+8545,F,train-clean-360,25.14,Joanne Rochon,0.419
+8555,F,test-clean,8.03,Michelle Goode,0.13383333333333333
+8565,M,train-other-500,28.92,Patrick Eaton,0.48200000000000004
+8573,F,train-clean-360,25.05,Paige G,0.41750000000000004
+8575,M,train-clean-360,25.04,Jeremy Robertson,0.41733333333333333
+8576,M,train-other-500,18.24,Phil Schempf,0.304
+8580,M,train-clean-100,19.82,Gary Dana,0.3303333333333333
+8587,M,train-other-500,25.08,Drew Johnson,0.418
+8590,M,train-other-500,27.96,bobrose,0.466
+8591,F,train-clean-360,22.02,Jude Somers,0.367
+8592,M,train-clean-360,18.66,Dylan Posa,0.311
+8605,F,train-clean-360,25.06,Kate Sterner,0.41766666666666663
+8609,M,train-clean-100,25.1,noblesavage,0.41833333333333333
+8619,M,train-clean-360,25.03,Tad E.,0.4171666666666667
+8625,F,train-other-500,30.16,Ellen Preckel,0.5026666666666667
+8629,M,train-clean-100,25.13,Shivansh Dhar,0.41883333333333334
+8630,M,train-clean-100,23.5,Eduardo,0.39166666666666666
+8631,M,train-other-500,30.06,Edward Kirkby,0.501
+8632,M,train-other-500,21.05,Geremia,0.35083333333333333
+8635,M,train-clean-360,25.07,ACBowgus,0.41783333333333333
+8643,M,train-clean-360,25.08,jabc1950,0.418
+8644,F,train-other-500,24.78,Eenae,0.41300000000000003
+8664,F,train-other-500,30.2,Pam Castille,0.5033333333333333
+8666,M,train-other-500,25.61,josembi,0.42683333333333334
+8671,M,train-other-500,16.8,Simon Smoke,0.28
+8675,M,train-other-500,30.11,Larry Greene,0.5018333333333334
+8677,F,train-clean-360,25.17,KHand,0.41950000000000004
+8678,F,train-other-500,19.4,Amy,0.3233333333333333
+8684,F,train-clean-360,21.46,Alison Stewart,0.3576666666666667
+8687,M,train-clean-360,21.21,EccentricOwl,0.35350000000000004
+8699,F,train-clean-360,22.64,Jessica Atha,0.37733333333333335
+8705,M,train-clean-360,25.0,dsilber01,0.4166666666666667
+8710,M,train-other-500,28.74,Ralph Crown,0.479
+8713,M,train-clean-360,25.23,Expatriate,0.4205
+8718,F,train-clean-360,25.07,Deena Rhoads,0.41783333333333333
+8722,F,train-clean-360,24.13,Emily Maynard,0.4021666666666667
+8725,M,train-clean-360,25.02,Gary Ericson,0.417
+8742,M,train-clean-360,25.03,Adam Taylor,0.4171666666666667
+8747,M,train-clean-100,23.49,DeanOBuchanan,0.39149999999999996
+8753,M,train-other-500,28.87,Walt Allan,0.4811666666666667
+8758,M,train-clean-360,25.05,Krzysztof Rowinski,0.41750000000000004
+8765,M,train-other-500,28.03,jciesielski,0.4671666666666667
+8770,M,train-clean-100,25.13,Paul Simonin,0.41883333333333334
+8771,F,train-clean-360,15.4,Anna Millard,0.25666666666666665
+8772,M,train-clean-360,25.03,Martin Reyto,0.4171666666666667
+8776,F,train-clean-360,21.9,Taliesin,0.365
+8778,F,train-other-500,30.25,Francoise,0.5041666666666667
+8786,M,train-clean-360,25.12,Bruce Kachuk,0.4186666666666667
+8791,M,train-clean-360,23.93,ScottReyonoldsVoice,0.3988333333333333
+8797,M,train-clean-100,22.76,Sean Grabosky,0.37933333333333336
+8799,M,train-other-500,29.05,Peter Tucker,0.4841666666666667
+8803,M,train-other-500,23.76,Ben Lindsey-Clark,0.396
+8808,M,train-other-500,22.91,davidpr,0.38183333333333336
+8820,M,train-clean-360,25.19,Ignare,0.41983333333333334
+8824,M,train-clean-360,25.21,Mark Johnston,0.4201666666666667
+8825,F,train-clean-360,23.93,Erin Schellhase,0.3988333333333333
+8838,M,train-clean-100,25.06,Kevin Owens,0.41766666666666663
+8842,F,dev-clean,8.1,Mary J,0.13499999999999998
+8846,F,train-other-500,30.14,MariaS,0.5023333333333333
+8848,M,train-clean-360,25.12,Craig Kenneth Bryant,0.4186666666666667
+8855,M,train-clean-360,25.01,Eric Metzler,0.41683333333333333
+8867,F,train-other-500,7.58,sorbet87,0.12633333333333333
+8875,M,train-clean-360,17.77,David D'Huet,0.29616666666666663
+8879,M,train-clean-360,25.07,Son of the Exiles,0.41783333333333333
+8887,M,train-clean-360,21.11,Andrew Hernandez,0.35183333333333333
+8897,F,train-other-500,30.15,beyondutopia,0.5025
+8975,F,train-clean-100,25.11,Daisy Flaim,0.4185
+9000,M,train-other-500,27.26,Ramon Escamilla,0.45433333333333337
+9022,F,train-clean-360,25.17,Claire M,0.41950000000000004
+9023,F,train-clean-360,25.19,P. J. Morgan,0.41983333333333334
+9026,F,train-clean-360,21.75,Tammy Porter,0.3625

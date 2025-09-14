@@ -1,0 +1,7 @@
+.venv/
+data/train-clean-100/
+*.ipynb_checkpoints/
+*.jpynb
+*.jupyter
+*.json
+.DS_Store
