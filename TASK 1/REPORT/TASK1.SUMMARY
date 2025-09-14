@@ -1,1 +1,56 @@
+# 📝 Task 1: Data Documentation & Quality Evaluation
+
+## 1. Dataset Used
+- **LibriSpeech Dataset** – ~1,000 hours of English audiobook recordings  
+- Components:  
+  - **Audio files** (WAV/FLAC)  
+  - **Text transcripts** (public-domain books)  
+  - **Metadata** (speaker ID, gender, chapter, source book)  
+
+## 2. Dataset Documentation
+- Documented **available fields**: speaker ID, gender, transcript, audio path  
+- Highlighted **missing fields**: age, accent/dialect, background environment  
+- Created a **data card** including:  
+  - Dataset description  
+  - Intended use (benchmarking speech recognition)  
+  - Sensitivity classification (voice data = restricted/confidential)  
+
+## 3. Sensitive Data Labeling
+- Classified each type of data:  
+  - **Voice recordings** → Restricted/Confidential (biometric data under GDPR/HIPAA)  
+  - **Speaker metadata** → Confidential (low risk but identifiable with voice)  
+  - **Transcripts** → Public (no personal info)  
+- Applied data governance: encryption, anonymization, access control  
+
+## 4. Data Quality Evaluation
+Evaluated dataset quality across several dimensions:  
+
+- **Completeness** → Missing age, accent, environment metadata  
+- **Consistency/Validity** → Utterance duration distribution checked (most 8–15 sec)  
+- **Representation/Fairness** → Male and US/UK accent dominance; other demographics underrepresented  
+- **Accuracy/Noise** → Recordings are very clean, unlike noisy hospital settings  
+
+**Visualizations created:**  
+- Histogram of utterance durations (per dataset split)  
+- Boxplot of loudness (dB) to check volume consistency  
+- Waveform plots (clean vs noisy)  
+- Spectrogram comparison (clean vs noisy)  
+
+## 5. Improvements Implemented
+- **Metadata Enrichment** → Added synthetic fields (age, accent, environment) to metadata CSV  
+- **Noise Simulation** → Demonstrated adding background noise with Librosa to mimic hospital conditions  
+- **Fairness Monitoring** → Proposed checks across gender, age, and accents  
+- **Segmentation & Concatenation Plan** → To better match hospital utterance lengths  
+
+## 6. Recommendations
+1. Enrich metadata with demographics & environment  
+2. Apply noise augmentation to simulate hospital conditions  
+3. Collect & integrate real hospital dictations under GDPR/HIPAA  
+4. Monitor fairness across demographic groups  
+5. Encrypt and strictly control access to voice recordings  
+
+---
+
+✅ **Summary in One Line:** Task 1 documented the LibriSpeech dataset, labeled sensitive data, identified major quality issues (utterance length, bias, noise, missing metadata), and proposed practical improvements to make the dataset suitable for hospital speech recognition.  
+
 
