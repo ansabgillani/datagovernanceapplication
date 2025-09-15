@@ -1,1 +1,33 @@
+# Task 1 – Data Documentation & Quality Evaluation
+
+This repository contains my work for **Task 1** of the seminar project:  
+evaluating and improving the **LibriSpeech dataset** for hospital speech recognition.
+
+## 📌 Contents
+- `report/Task1_Summary.md` – detailed summary of methods, findings, and recommendations  
+- `code/` – Python scripts for analysis and visualizations  
+- `results/` – generated plots (waveforms, spectrograms, histograms)  
+
+## 🗂️ Dataset
+We used the [LibriSpeech](https://www.openslr.org/12) dataset (~1000 hours of audiobook speech).  
+⚠️ **Note:** The dataset itself is **not included here** due to size and licensing.
+
+## 🛠️ Methods
+- **Documentation & Metadata**: created a data card, added missing fields (age, accent, environment)  
+- **Sensitive Data Labeling**: marked voice as Restricted, metadata as Confidential  
+- **Data Quality Checks**: duration histograms, loudness boxplots, fairness analysis  
+- **Visualizations**: waveforms & spectrograms (clean vs noisy)  
+- **Improvements**: metadata enrichment, noise simulation, fairness monitoring  
+
+## 📊 Example Results
+![Utterance Length Distribution](results/utterance_length_by_split.png)  
+![Waveform Comparison](results/clean_vs_noisy_waveform.png)
+
+## ✅ Recommendations
+1. Enrich metadata with demographics  
+2. Add noise augmentation for hospital realism  
+3. Collect & integrate hospital dictations  
+4. Monitor fairness across demographics  
+5. Encrypt and control access to voice recordings  
+
 
