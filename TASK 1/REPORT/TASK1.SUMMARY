@@ -32,9 +32,8 @@ Evaluated dataset quality across several dimensions:
 
 **Visualizations created:**  
 - Histogram of utterance durations (per dataset split)  
-- Boxplot of loudness (dB) to check volume consistency  
 - Waveform plots (clean vs noisy)  
-- Spectrogram comparison (clean vs noisy)  
+
 
 ## 5. Improvements Implemented
 - **Metadata Enrichment** → Added synthetic fields (age, accent, environment) to metadata CSV  
