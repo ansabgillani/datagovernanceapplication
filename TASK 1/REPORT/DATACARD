@@ -1,0 +1,77 @@
+Data Card: LibriSpeech Dataset
+
+DATASET	DATASET SUMMARY
+Librispeech 	LibriSpeech is a large-scale corpus of approximately 1,000 hours of English speech derived from audiobooks read from the LibriVox project. It contains high-quality 16kHz audio recordings paired with accurate transcriptions. The dataset is widely used for training and benchmarking automatic speech recognition (ASR) systems. While it provides clean, standardized data for research, it is limited in diversity of accents, speaking styles, and lacks domain-specific content such as medical terminology.
+
+DATASET LINK 	AUTHORS
+Dataset Link: http://www.openslr.org/12/
+	Data Card Author(s): Consultant Team – Data Governance and Quality Evaluation
+(Deepthi Varghese)
+PUBLISHERS	
+Publishing Organization	OpenSLR
+Industry Type	Acadamic/ Research
+Open Data Initiative
+Contact Details	http://www.openslr.org/
+DATA OWNERS	
+Teams	LibriSpeech Project Team (OpenSLR / JHU – ASR Lab)
+Owner(s)	Vassil Panayotov (creator)
+Daniel Povey (maintainer)
+Author(s)	Vassil Panayotov, Researcher, JHU, 2015
+Daniel Povey, Research Scientist, JHU, 2015
+Guoguo Chen, Researcher, JHU, 2015
+Kaldi Community Contributors, 2015
+Affiliation	 Johns Hopkins University, CLSP
+Contact	contact@openslr.org
+Group Email	discuss@googlegroups.com
+Website	http://www.openslr.org/12
+DATASET OVERVIEW	
+Data Subjects	Non-sensitive speech recordings from volunteer audiobook readers
+Size of Dataset	~1,000 hours
+, ~281,000 utterances
+SENSITIVITY OF DATA	
+Sensitivity Type	Biometric (voice) → Sensitive under GDPR
+Fields with Sensitive Data	Speaker voice (audio).
+Security & Privacy Handling	Public dataset, anonymized speakers
+[In hospital context, must be treated as Confidential and protected with encryption, anonymization, and access controls.]
+RISKS AND MITIGATIONS	
+- Direct Risk
+	Re-identification.
+ Mitigation: Voice anonymization
+- Indirect Risk 	Demographic bias. 
+Mitigation: Complement with diverse datasets
+-Residual Risk  	Identity traces after anonymization. Mitigation: Monitor and limit linkage
+HUMAN AND SENSTIVE DATA	
+Language	English
+Risks	Demographic bias (majority US/European accents), exclusion of conversational speech
+Mitigation	Use complementary corpora (e.g., Common Voice) for diversity, balance with accented speech data, apply fairness auditing
+DATA QUALITY EVALUATION 	
+Strengths	Clean audio, accurate transcripts, standardized benchmark dataset
+
+Weaknesses	Limited accents, minimal background noise, no medical vocabulary
+Recommendations	Supplement with hospital dictations, enrich metadata (age, accent), apply noise augmentation, ensure fairness monitoring
+MOTIVATION AND INTENTIONS	
+Purpose	Research & Benchmarking for ASR
+Domains 	ASR, NLP, Speech-to-Text, ML, Benchmarking.
+Factors 
+	Addressed lack of large,
+ open English ASR datasets; 
+supported Kaldi community; 
+encouraged reproducibility and comparability
+INTENDED USE	
+Suitable Use Cases	Benchmarking ASR systems, baseline training for speech recognition models.
+Unsuitable Use Cases	Direct clinical deployment without adaptation; systems requiring diverse, noisy, or domain-specific speech data.
+
+ACCESS, RETENTION AND WIPEOUT	
+Access	Open access
+Publicly downloadable from OpenSLR
+Retention	No formal restrictions, but users must respect LibriVox license terms
+Deletion/Wipeout	Users responsible for ensuring compliance if data combined with sensitive clinical data
+VERSION AND MAINTENANCE	
+Current Version 
+	1.0 (Released 2015)
+Maintenance Status 	Actively maintained on OpenSLR, no regular updates planned
+
+KNOWN APPLICATIONS AND BENCHMARKS	
+ML Applications 	ASR training, testing, fine-tuning
+	
+
